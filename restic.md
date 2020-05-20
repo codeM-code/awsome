@@ -1,11 +1,14 @@
 # restic - Backup done right
 
+- https://restic.net (oder auch https://restic.readthedocs.io/en/stable/110_talks.html )
+- https://media.ccc.de/v/c4.openchaos.2016.01.restic
+
 ## Usage
 Tom Mob, [15.05.20 14:33]
 
-### backup: 
+### pwd - wo stehen wir?
 
-cd /D <medium>
+cd /D <medium> ???
 
 ### backup:
 ```sh

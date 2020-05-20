@@ -3,17 +3,18 @@ notes and trivia - funny important crazy or whatever - just: awsome
 
 ## What's Up?
 
-1. [meta](meta.md)
-1. [mesa](mesa.md)
+- [meta](meta.md)
+- [mesa](mesa.md)
     1. [nodeDB](nodedb.md)
     1. [GitHub](github.md)
     1. [µKanren](kanren.md)
     1. [mal](mal.md) - Let's Make a Lisp
-    1. [fp](fp.md)
-1. [misc](misc.md) - the last one. Petra hat da so'n tolles Wort für!
+    1. [fp](fp.md) - Let's Func function
+- [misc](misc.md) - der _Lumpensammler_ :-)
 
--  [todo](todo.md)
--  [done](done.md)
+---
+- [todo](todo.md)
+- [done](done.md)
 
 ## shared topics of interest
 

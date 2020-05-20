@@ -4,6 +4,9 @@
 - Repo [yali](https://github.com/go-yali/yali/)
 - intended use: `import "gopkg/yali"`
 
+## Inspired by
+- https://media.ccc.de/v/c4.openchaos.2017.01.make-a-lisp
+
 ## Scope / Charta
 
 Sharpen the sword - [7 Habits](7habits.md)
