@@ -1,0 +1,230 @@
+<section xml:id="familiar-and-unfamiliar-quotations">
+  <title>Familiar and Unfamiliar Quotations</title>
+  <para>
+  </para>
+</section>
+<section xml:id="about-life-the-universe-computers-and-everything">
+  <title>About
+  <link xlink:href="http://norvig.com/quotations.html#life">Life</link>,
+  <link xlink:href="http://norvig.com/quotations.html#universe">The
+  Universe</link>,
+  <link xlink:href="http://norvig.com/quotations.html#computers">Computers,</link>
+  and
+  <link xlink:href="http://norvig.com/quotations.html#everything">Everything</link></title>
+  <para>
+    <anchor id="life" />
+  </para>
+  <informaltable>
+    <tgroup cols="1">
+      <colspec align="left" />
+      <tbody>
+        <row>
+          <entry>
+            <emphasis role="strong">Life</emphasis>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+<literallayout>Always do right. This will gratify some people and astonish the rest.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Mark_twain">Mark Twain</link></emphasis></literallayout>
+<literallayout>A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Bob_Dylan">Bob Dylan</link></emphasis></literallayout>
+<literallayout>Don't wait for the Last Judgement. It takes place every day.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Albert_Camus">Albert Camus</link></emphasis></literallayout>
+<literallayout>Brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.
+<emphasis>    - <link xlink:href="http://randypausch.com/">Randy Pausch</link></emphasis></literallayout>
+<literallayout>Far and away the best prize life has to offer is the chance to work hard at work worth doing.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Theodore_Roosevelt">Theodore Roosevelt</link></emphasis></literallayout>
+<literallayout>I cannot afford to waste my time making money.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Louis_Agassiz">Louis Agassiz</link></emphasis></literallayout>
+<literallayout>All you have to decide is what you're going to do with the time you are given.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Gandalf">Gandalf</link></emphasis></literallayout>
+<literallayout>The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their field of endeavor.
+<emphasis>    - <link xlink:href="http://www.vincelombardi.com/">Vince Lombardi</link></emphasis></literallayout>
+<literallayout>No art, however minor, demands less than total dedication if you want to excel in it.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Leone_Battista_Alberti">Leon Battista Alberti</link>, (architect, painter and mathematician)</emphasis></literallayout>
+<literallayout>My crystal ball is fuzzy
+<emphasis>    - <link xlink:href="http://www.cs.berkeley.edu/People/Faculty/Homepages/zadeh.html">Lotfi Zadeh</link> (inventor of Fuzzy Logic, when asked to predict the future)</emphasis></literallayout>
+<literallayout>If I had a dollar for every million-dollar idea I've had, I'd be rich.
+<emphasis>    - <link xlink:href="http://www.compliancemedia.com/Principals.html">Greg Meyer</link></emphasis></literallayout>
+<literallayout>There's nothing that will change someone's moral outlook quicker than cash in large sums.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Larry_Flynt">Larry Flynt</link></emphasis></literallayout>
+<literallayout>The perfect is the enemy of the good.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Voltaire">Voltaire</link></emphasis></literallayout>
+<literallayout>I have great faith in fools. Self-confidence, my friends call it.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Edgar_Allan_Poe">Edgar Allen Poe</link></emphasis></literallayout>
+<literallayout>The point of all this is to be able to spend more time at the beach!
+<emphasis>    - <link xlink:href="http://robotics.stanford.edu/users/nilsson/bio.html">Nils Nilsson</link></emphasis></literallayout>
+<literallayout>Being famous has its benefits, but fame isn't one of them.
+<emphasis>    - <link xlink:href="http://www.wall.org/~larry/">Larry Wall</link></emphasis></literallayout>
+<literallayout>Personally, I liked the university. They gave us money and facilities, we didn't have to produce anything! You've never been out of college! You don't know what it's like out there! I've <emphasis>worked</emphasis> in the private sector. They expect <emphasis>results</emphasis>.
+<emphasis>    - <link xlink:href="http://www.imdb.com/name/nm0000101/">Dr Ray Stanz (Dan Aykroyd)</link>, Ghostbusters</emphasis></literallayout>
+<literallayout>A great many people think they are thinking when they are merely rearranging their prejudices.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/William_James">William James</link></emphasis></literallayout>
+<literallayout>It is the mark of an educated mind to be able to entertain a thought without accepting it.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Aristotle">Aristotle</link></emphasis></literallayout>
+<literallayout>I try to leave out the parts that people skip.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/Elmore_Leonard">Elmore Leonard</link> (on his secret to writing)</emphasis></literallayout>
+<literallayout>Either write something worth reading or do something worth writing.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Benjamin_Franklin">Benjamin Franklin</link></emphasis></literallayout>
+<literallayout>Believe, if thou wilt, that mountains change their place, but believe not that man changes his nature.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Mohammed">Mohammed</link></emphasis></literallayout>
+  <para>
+    <anchor id="universe" />
+  </para>
+  <informaltable>
+    <tgroup cols="1">
+      <colspec align="left" />
+      <tbody>
+        <row>
+          <entry>
+            <emphasis role="strong">The Universe</emphasis>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+<literallayout>In the beginning, the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
+<emphasis>    - <link xlink:href="http://www.douglasadams.com/">Douglas Adams</link></emphasis></literallayout>
+<literallayout>Space isn't remote at all. It's only an hour's drive away if your car could go straight upwards.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</link></emphasis></literallayout>
+<literallayout>Man is the best computer we can put aboard a spacecraft... and the only one that can be mass produced with unskilled labor.
+<emphasis>    - <link xlink:href="http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html">Wernher von Braun</link></emphasis></literallayout>
+<literallayout>We can lick gravity, but sometimes the paperwork is overwhelming.
+<emphasis>    - <link xlink:href="http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html">Wernher von Braun</link></emphasis></literallayout>
+<literallayout>I don't see any god up here.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Gagarin">Yuri Gagarin</link> (in orbit, 1961)</emphasis></literallayout>
+<literallayout>Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Einstein">Albert Einstein</link></emphasis></literallayout>
+<literallayout>There are 10<superscript>11</superscript> stars in the galaxy. That used to be a <emphasis>huge</emphasis> number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers.
+<emphasis>    - <link xlink:href="http://www.feynmanonline.com/">Richard Feynman</link></emphasis></literallayout>
+<literallayout>For all our conceits about being the center of the universe, we live in a routine planet of a humdrum star stuck away in an obscure corner ... on an unexceptional galaxy which is one of about 100 billion galaxies. ... That is the fundamental fact of the universe we inhabit, and it is very good for us to understand that.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</link></emphasis></literallayout>
+<literallayout>Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the Galaxy lies a small unregarded yellow sun. Orbiting this at a distance of roughly ninety-eight million miles is an utterly insignificant little blue-green planet whose ape-descended life forms are so amazingly primitive that they still think digital watches are a pretty neat idea.
+<emphasis>    - <link xlink:href="http://www.douglasadams.com/">Douglas Adams</link></emphasis></literallayout>
+  <para>
+    <anchor id="computers" />
+  </para>
+  <informaltable>
+    <tgroup cols="1">
+      <colspec align="left" />
+      <tbody>
+        <row>
+          <entry>
+            <emphasis role="strong">Computers</emphasis>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+<literallayout>Some software is actually pretty good, by any standard. Think of the Mars Rovers, Google, and the Human Genome Project. Now, that's quality software!
+<emphasis>    - <link xlink:href="http://parasol.tamu.edu/people/bs/">Bjarne Stroustrup</link>, (when asked by <link xlink:href="http://www.technologyreview.com/Infotech/17987/?a=f">Technology Review</link> &quot;Why is software so bad?&quot;. I'm proud to have worked on two of those three projects.)</emphasis></literallayout>
+<literallayout>The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Vannevar_Bush">Vannevar Bush</link> (1945)</emphasis></literallayout>
+<literallayout>Power corrupts, and obsolete power corrupts obsoletely.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Ted_Nelson">Ted Nelson</link>, on the Microsoft DOS operating system</emphasis></literallayout>
+<literallayout>Computers make it easier to do a lot of things, but most of the things they make it easier to do don't need to be done
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Andy_Rooney">Andy Rooney</link></emphasis></literallayout>
+<literallayout>As soon as we started programming, we found out to our surprise that it wasn't as easy to get programs right as we had thought. Debugging had to be discovered. I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Maurice_Wilkes">Maurice Wilkes</link></emphasis></literallayout>
+<literallayout>Only wimps use tape backup: <emphasis>real</emphasis> men just upload their important stuff on ftp, and let the rest of the world mirror it.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</link></emphasis></literallayout>
+<literallayout>C++ is history repeated as tragedy. Java is history repeated as farce.
+<emphasis>    - Scott McKay (<email>swm@mediaone.net</email>)</emphasis></literallayout>
+<literallayout>Nothing is destroyed until it is replaced.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Auguste_Comte">Auguste Comte (1798-1857)</link> (on the need for revolutionary new theories (or on the need to do <literal>x.f = null</literal> in garbage-collected languages with destructors))</emphasis></literallayout>
+<literallayout>In general, they do what you want, unless you want consistency.
+<emphasis>    - <link xlink:href="http://www.wall.org/~larry/">Larry Wall</link> (on Perl functions)</emphasis></literallayout>
+<literallayout>Computer language design is just like a stroll in the park. Jurassic Park, that is.
+<emphasis>    - <link xlink:href="http://www.wall.org/~larry/">Larry Wall</link></emphasis></literallayout>
+<literallayout>If you give someone Fortran, he has Fortran. If you give someone Lisp, he has any language he pleases.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Guy_Steele">Guy L. Steele</link></emphasis></literallayout>
+<literallayout>[Lisp] is the only computer language that is beautiful.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Neal_Stephenson">Neal Stephenson</link></emphasis></literallayout>
+<literallayout>If you can't hear me, it's because I'm in parentheses.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Steven_Wright">Steven Wright</link></emphasis></literallayout>
+<literallayout>He who refuses to do arithmetic is doomed to talk nonsense.
+<emphasis>    - <link xlink:href="http://www-formal.stanford.edu/jmc/">John McCarthy</link></emphasis></literallayout>
+<literallayout>Belief is no substitute for arithmetic.
+<emphasis>    - <link xlink:href="http://www.lysator.liu.se/c/henry/">Henry Spencer</link></emphasis></literallayout>
+<literallayout>Object-oriented programming is an exceptionally bad idea which could only have originated in California.
+<emphasis>    - <link xlink:href="http://www.cs.utexas.edu/users/UTCS/report/1994/profiles/dijkstra.html">Edsger Dijkstra</link> (attributed)</emphasis></literallayout>
+<literallayout>We read Knuth so you don't have to.
+<emphasis>    -<link xlink:href="http://c2.com/cgi/wiki?TimPeters">Tim Peters</link> (explaining what the Python developers do in their spare time)</emphasis></literallayout>
+<literallayout>Computers are useless. They can only give you answers.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Picasso">Pablo Picasso</link></emphasis></literallayout>
+<literallayout>I do not believe in objects. I believe only in their relationships.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Braque">George Braque</link></emphasis></literallayout>
+<literallayout>I don't paint things. I only paint the difference between things.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Matisse">Henri Matisse</link></emphasis></literallayout>
+<literallayout>Mathematicians do not study objects, but relations among objects; they are indifferent to the replacement of objects by others as long the relations don't change. Matter is not important, only form interests them.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9">Henri Poincare</link></emphasis></literallayout>
+<literallayout>Have nothing in your houses that you do not know to be useful, or believe to be beautiful.
+<emphasis>    - <link xlink:href="http://www.morrissociety.org/">William Morris</link></emphasis></literallayout>
+<literallayout>All models are wrong. Some models are useful.
+<emphasis>    - <link xlink:href="http://www.engr.wisc.edu/ie/faculty/box_george.html">George Box</link></emphasis></literallayout>
+<literallayout>When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl!
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Brad_Templeton">Brad Templeton</link></emphasis></literallayout>
+<literallayout>Errors using inadequate data are much less than those using no data at all.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Babbage">Charles Babbage</link></emphasis></literallayout>
+<literallayout>In the future, search engines should be as useful as HAL in the movie <emphasis>2001: A Space Odyssey</emphasis>--but hopefully they won't kill people.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Sergey_Brin">Sergey Brin</link></emphasis></literallayout>
+  <para>
+    <anchor id="everything" />
+  </para>
+  <informaltable>
+    <tgroup cols="1">
+      <colspec align="left" />
+      <tbody>
+        <row>
+          <entry>
+            <emphasis role="strong">Everything</emphasis>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+<literallayout>Doubt is not a pleasant condition, but certainty is an absurd one.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Voltaire">Voltaire</link></emphasis></literallayout>
+<literallayout>There are three principal ways to lose money: wine, women, and engineers. While the first two are more pleasant, the third is by far the more certain.
+<emphasis>    - <link xlink:href="http://www.jewishpeople.net/barrot.html">Baron Rothschild</link></emphasis></literallayout>
+<literallayout>God is a hacker, not an engineer.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Francis_Crick">Francis Crick</link></emphasis></literallayout>
+<literallayout>You can do reverse engineering, but you can't do reverse hacking.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran">V. S. Ramachandran</link></emphasis></literallayout>
+<literallayout>I have often thought that if there had been a good rap group in those days, I might have chosen a career in music instead of politics.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Nixon">Richard Nixon</link></emphasis></literallayout>
+<literallayout>If I have made myself clear, you must have misunderstood me.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Greenspan">Alan Greenspan</link></emphasis></literallayout>
+<literallayout>Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it
+<emphasis>    - <link xlink:href="http://www.feynmanonline.com/">Richard Feynman</link></emphasis></literallayout>
+<literallayout>Literature is mostly about having sex, and not much about having babies; life is the other way round.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/David_Lodge_%28author%29">David Lodge</link></emphasis></literallayout>
+<literallayout>More than any other time in history mankind faces a crossroads. One path leads to despair and utter hopelessness, the other to total extinction. Let us pray we have the wisdom to choose correctly.
+<emphasis>    -<link xlink:href="http://en.wikipedia.org/wiki/Woody_Allen">Woody Allen</link></emphasis></literallayout>
+<literallayout>When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Arthur_Conan_Doyle">Sir Arthur Conan Doyle</link></emphasis></literallayout>
+<literallayout>Chance favors only the prepared mind.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Pasteur">Louis Pasteur</link></emphasis></literallayout>
+<literallayout>Lord, give us the wisdom to utter words that are gentle and tender, for tomorrow we may have to eat them.
+<emphasis>    -<link xlink:href="http://www.udall.gov/mku.htm">Sen. Morris Udall</link></emphasis></literallayout>
+<literallayout>It does not require a majority to prevail, but rather an irate, tireless minority keen to set brush fires in people's minds.
+<emphasis>    - <link xlink:href="http://www.samadams.com/">Samuel Adams</link></emphasis></literallayout>
+<literallayout>I don't want to achieve immortality through my work ... I want to achieve it through not dying.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Woody_allen">Woody Allen</link></emphasis></literallayout>
+<literallayout>I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Dirksen">Sen. Everett Dirksen</link></emphasis></literallayout>
+<literallayout>When I face an issue of great import that cleaves both constituents and colleagues, I always take the same approach. I engage in deep deliberation and quiet contemplation. I wait to the last available minute and then I always vote with the losers. Because, my friend, the winners never remember and the losers never forget.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Dirksen">Sen. Everett Dirksen</link></emphasis></literallayout>
+<literallayout>Wise men make proverbs, but fools repeat them.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Samuel_Palmer">Samuel Palmer</link></emphasis></literallayout>
+<literallayout>In the End, we will remember not the words of our enemies, but the silence of our friends.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Luther_King">Martin Luther King Jr.</link></emphasis></literallayout>
+<literallayout>In the end, everything is a gag.
+<emphasis>    - <link xlink:href="http://en.wikipedia.org/wiki/Charles_Chaplin_%28disambiguation%29">Charlie Chaplin</link></emphasis></literallayout>
+  <para>
+    <emphasis><link xlink:href="http://norvig.com/index.html">Peter
+    Norvig</link></emphasis>
+  </para>
+</section>

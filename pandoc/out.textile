@@ -1,0 +1,253 @@
+h1(#familiar-and-unfamiliar-quotations). Familiar and Unfamiliar Quotations
+
+h1(#about-life-the-universe-computers-and-everything). About "Life":http://norvig.com/quotations.html#life, "The Universe":http://norvig.com/quotations.html#universe, "Computers,":http://norvig.com/quotations.html#computers and "Everything":http://norvig.com/quotations.html#everything
+
+<hr />
+
+
+
+|*Life*|
+
+Always do right. This will gratify some people and astonish the rest.
+<em>    &#45; "Mark Twain":http://en.wikipedia.org/wiki/Mark_twain</em>
+
+A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.
+<em>    &#45; "Bob Dylan":http://en.wikipedia.org/wiki/Bob_Dylan</em>
+
+Don't wait for the Last Judgement. It takes place every day.
+<em>    &#45; "Albert Camus":http://en.wikipedia.org/wiki/Albert_Camus</em>
+
+Brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.
+_    &#45; "Randy Pausch":http://randypausch.com/_
+
+Far and away the best prize life has to offer is the chance to work hard at work worth doing.
+<em>    &#45; "Theodore Roosevelt":http://en.wikipedia.org/wiki/Theodore_Roosevelt</em>
+
+I cannot afford to waste my time making money.
+<em>    &#45; "Louis Agassiz":http://en.wikipedia.org/wiki/Louis_Agassiz</em>
+
+All you have to decide is what you're going to do with the time you are given.
+_    &#45; "Gandalf":http://en.wikipedia.org/wiki/Gandalf_
+
+The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their field of endeavor.
+_    &#45; "Vince Lombardi":http://www.vincelombardi.com/_
+
+No art, however minor, demands less than total dedication if you want to excel in it.
+<em>    &#45; "Leon Battista Alberti":http://en.wikipedia.org/wiki/Leone_Battista_Alberti, (architect, painter and mathematician)</em>
+
+My crystal ball is fuzzy
+_    &#45; "Lotfi Zadeh":http://www.cs.berkeley.edu/People/Faculty/Homepages/zadeh.html (inventor of Fuzzy Logic, when asked to predict the future)_
+
+If I had a dollar for every million&#45;dollar idea I've had, I'd be rich.
+_    &#45; "Greg Meyer":http://www.compliancemedia.com/Principals.html_
+
+There's nothing that will change someone's moral outlook quicker than cash in large sums.
+<em>    &#45; "Larry Flynt":http://en.wikipedia.org/wiki/Larry_Flynt</em>
+
+The perfect is the enemy of the good.
+_    &#45; "Voltaire":http://en.wikipedia.org/wiki/Voltaire_
+
+I have great faith in fools. Self&#45;confidence, my friends call it.
+<em>    &#45; "Edgar Allen Poe":http://en.wikipedia.org/wiki/Edgar_Allan_Poe</em>
+
+The point of all this is to be able to spend more time at the beach!
+_    &#45; "Nils Nilsson":http://robotics.stanford.edu/users/nilsson/bio.html_
+
+Being famous has its benefits, but fame isn't one of them.
+_    &#45; "Larry Wall":http://www.wall.org/~larry/_
+
+Personally, I liked the university. They gave us money and facilities, we didn't have to produce anything! You've never been out of college! You don't know what it's like out there! I've _worked_ in the private sector. They expect _results_.
+_    &#45; "Dr Ray Stanz (Dan Aykroyd)":http://www.imdb.com/name/nm0000101/, Ghostbusters_
+
+A great many people think they are thinking when they are merely rearranging their prejudices.
+<em>    &#45; "William James":http://en.wikipedia.org/wiki/William_James</em>
+
+It is the mark of an educated mind to be able to entertain a thought without accepting it.
+_    &#45; "Aristotle":http://en.wikipedia.org/wiki/Aristotle_
+
+I try to leave out the parts that people skip.
+<em>    &#45; "Elmore Leonard":http://en.wikipedia.org/Elmore_Leonard (on his secret to writing)</em>
+
+Either write something worth reading or do something worth writing.
+<em>    &#45; "Benjamin Franklin":http://en.wikipedia.org/wiki/Benjamin_Franklin</em>
+
+Believe, if thou wilt, that mountains change their place, but believe not that man changes his nature.
+_    &#45; "Mohammed":http://en.wikipedia.org/wiki/Mohammed_
+
+
+
+|*The Universe*|
+
+In the beginning, the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
+_    &#45; "Douglas Adams":http://www.douglasadams.com/_
+
+Space isn't remote at all. It's only an hour's drive away if your car could go straight upwards.
+<em>    &#45; "Fred Hoyle":http://en.wikipedia.org/wiki/Fred_Hoyle</em>
+
+Man is the best computer we can put aboard a spacecraft... and the only one that can be mass produced with unskilled labor.
+_    &#45; "Wernher von Braun":http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html_
+
+We can lick gravity, but sometimes the paperwork is overwhelming.
+_    &#45; "Wernher von Braun":http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html_
+
+I don't see any god up here.
+_    &#45; "Yuri Gagarin":http://en.wikipedia.org/wiki/Gagarin (in orbit, 1961)_
+
+Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+_    &#45; "Albert Einstein":http://en.wikipedia.org/wiki/Einstein_
+
+There are 10[^11^] stars in the galaxy. That used to be a _huge_ number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers.
+_    &#45; "Richard Feynman":http://www.feynmanonline.com/_
+
+For all our conceits about being the center of the universe, we live in a routine planet of a humdrum star stuck away in an obscure corner ... on an unexceptional galaxy which is one of about 100 billion galaxies. ... That is the fundamental fact of the universe we inhabit, and it is very good for us to understand that.
+<em>    &#45; "Carl Sagan":http://en.wikipedia.org/wiki/Carl_Sagan</em>
+
+Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the Galaxy lies a small unregarded yellow sun. Orbiting this at a distance of roughly ninety&#45;eight million miles is an utterly insignificant little blue&#45;green planet whose ape&#45;descended life forms are so amazingly primitive that they still think digital watches are a pretty neat idea.
+_    &#45; "Douglas Adams":http://www.douglasadams.com/_
+
+
+
+|*Computers*|
+
+Some software is actually pretty good, by any standard. Think of the Mars Rovers, Google, and the Human Genome Project. Now, that's quality software!
+_    &#45; "Bjarne Stroustrup":http://parasol.tamu.edu/people/bs/, (when asked by "Technology Review":http://www.technologyreview.com/Infotech/17987/?a=f &quot;Why is software so bad?&quot;. I'm proud to have worked on two of those three projects.)_
+
+The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it.
+<em>    &#45; "Vannevar Bush":http://en.wikipedia.org/wiki/Vannevar_Bush (1945)</em>
+
+Power corrupts, and obsolete power corrupts obsoletely.
+<em>    &#45; "Ted Nelson":http://en.wikipedia.org/wiki/Ted_Nelson, on the Microsoft DOS operating system</em>
+
+Computers make it easier to do a lot of things, but most of the things they make it easier to do don't need to be done
+<em>    &#45; "Andy Rooney":http://en.wikipedia.org/wiki/Andy_Rooney</em>
+
+As soon as we started programming, we found out to our surprise that it wasn't as easy to get programs right as we had thought. Debugging had to be discovered. I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs.
+<em>    &#45; "Maurice Wilkes":http://en.wikipedia.org/wiki/Maurice_Wilkes</em>
+
+Only wimps use tape backup: _real_ men just upload their important stuff on ftp, and let the rest of the world mirror it.
+<em>    &#45; "Linus Torvalds":http://en.wikipedia.org/wiki/Linus_Torvalds</em>
+
+C&#43;&#43; is history repeated as tragedy. Java is history repeated as farce.
+_    &#45; "Scott McKay":mailto:swm@mediaone.net_
+
+Nothing is destroyed until it is replaced.
+<em>    &#45; "Auguste Comte (1798&#45;1857)":http://en.wikipedia.org/wiki/Auguste_Comte (on the need for revolutionary new theories (or on the need to do @x.f = null@ in garbage&#45;collected languages with destructors))</em>
+
+In general, they do what you want, unless you want consistency.
+_    &#45; "Larry Wall":http://www.wall.org/~larry/ (on Perl functions)_
+
+Computer language design is just like a stroll in the park. Jurassic Park, that is.
+_    &#45; "Larry Wall":http://www.wall.org/~larry/_
+
+If you give someone Fortran, he has Fortran. If you give someone Lisp, he has any language he pleases.
+<em>    &#45; "Guy L. Steele":http://en.wikipedia.org/wiki/Guy_Steele</em>
+
+[Lisp] is the only computer language that is beautiful.
+<em>    &#45; "Neal Stephenson":http://en.wikipedia.org/wiki/Neal_Stephenson</em>
+
+If you can't hear me, it's because I'm in parentheses.
+<em>    &#45; "Steven Wright":http://en.wikipedia.org/wiki/Steven_Wright</em>
+
+He who refuses to do arithmetic is doomed to talk nonsense.
+_    &#45; "John McCarthy":http://www-formal.stanford.edu/jmc/_
+
+Belief is no substitute for arithmetic.
+_    &#45; "Henry Spencer":http://www.lysator.liu.se/c/henry/_
+
+Object&#45;oriented programming is an exceptionally bad idea which could only have originated in California.
+_    &#45; "Edsger Dijkstra":http://www.cs.utexas.edu/users/UTCS/report/1994/profiles/dijkstra.html (attributed)_
+
+We read Knuth so you don't have to.
+_    &#45;"Tim Peters":http://c2.com/cgi/wiki?TimPeters (explaining what the Python developers do in their spare time)_
+
+Computers are useless. They can only give you answers.
+_    &#45; "Pablo Picasso":http://en.wikipedia.org/wiki/Picasso_
+
+I do not believe in objects. I believe only in their relationships.
+_    &#45; "George Braque":http://en.wikipedia.org/wiki/Braque_
+
+I don't paint things. I only paint the difference between things.
+_    &#45; "Henri Matisse":http://en.wikipedia.org/wiki/Matisse_
+
+Mathematicians do not study objects, but relations among objects; they are indifferent to the replacement of objects by others as long the relations don't change. Matter is not important, only form interests them.
+<em>    &#45; "Henri Poincare":http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9</em>
+
+Have nothing in your houses that you do not know to be useful, or believe to be beautiful.
+_    &#45; "William Morris":http://www.morrissociety.org/_
+
+All models are wrong. Some models are useful.
+<em>    &#45; "George Box":http://www.engr.wisc.edu/ie/faculty/box_george.html</em>
+
+When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl!
+<em>    &#45; "Brad Templeton":http://en.wikipedia.org/wiki/Brad_Templeton</em>
+
+Errors using inadequate data are much less than those using no data at all.
+_    &#45; "Charles Babbage":http://en.wikipedia.org/wiki/Babbage_
+
+In the future, search engines should be as useful as HAL in the movie _2001: A Space Odyssey_&#45;&#45;but hopefully they won't kill people.
+<em>    &#45; "Sergey Brin":http://en.wikipedia.org/wiki/Sergey_Brin</em>
+
+
+
+|*Everything*|
+
+Doubt is not a pleasant condition, but certainty is an absurd one.
+_    &#45; "Voltaire":http://en.wikipedia.org/wiki/Voltaire_
+
+There are three principal ways to lose money: wine, women, and engineers. While the first two are more pleasant, the third is by far the more certain.
+_    &#45; "Baron Rothschild":http://www.jewishpeople.net/barrot.html_
+
+God is a hacker, not an engineer.
+<em>    &#45; "Francis Crick":http://en.wikipedia.org/wiki/Francis_Crick</em>
+
+You can do reverse engineering, but you can't do reverse hacking.
+<em>    &#45; "V. S. Ramachandran":http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran</em>
+
+I have often thought that if there had been a good rap group in those days, I might have chosen a career in music instead of politics.
+_    &#45; "Richard Nixon":http://en.wikipedia.org/wiki/Nixon_
+
+If I have made myself clear, you must have misunderstood me.
+_    &#45; "Alan Greenspan":http://en.wikipedia.org/wiki/Greenspan_
+
+Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it
+_    &#45; "Richard Feynman":http://www.feynmanonline.com/_
+
+Literature is mostly about having sex, and not much about having babies; life is the other way round.
+<em>    &#45; "David Lodge":http://en.wikipedia.org/wiki/David_Lodge_%28author%29</em>
+
+More than any other time in history mankind faces a crossroads. One path leads to despair and utter hopelessness, the other to total extinction. Let us pray we have the wisdom to choose correctly.
+<em>    &#45;"Woody Allen":http://en.wikipedia.org/wiki/Woody_Allen</em>
+
+When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+<em>    &#45; "Sir Arthur Conan Doyle":http://en.wikipedia.org/wiki/Arthur_Conan_Doyle</em>
+
+Chance favors only the prepared mind.
+_    &#45; "Louis Pasteur":http://en.wikipedia.org/wiki/Pasteur_
+
+Lord, give us the wisdom to utter words that are gentle and tender, for tomorrow we may have to eat them.
+_    &#45;"Sen. Morris Udall":http://www.udall.gov/mku.htm_
+
+It does not require a majority to prevail, but rather an irate, tireless minority keen to set brush fires in people's minds.
+_    &#45; "Samuel Adams":http://www.samadams.com/_
+
+I don't want to achieve immortality through my work ... I want to achieve it through not dying.
+<em>    &#45; "Woody Allen":http://en.wikipedia.org/wiki/Woody_allen</em>
+
+I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+_    &#45; "Sen. Everett Dirksen":http://en.wikipedia.org/wiki/Dirksen_
+
+When I face an issue of great import that cleaves both constituents and colleagues, I always take the same approach. I engage in deep deliberation and quiet contemplation. I wait to the last available minute and then I always vote with the losers. Because, my friend, the winners never remember and the losers never forget.
+_    &#45; "Sen. Everett Dirksen":http://en.wikipedia.org/wiki/Dirksen_
+
+Wise men make proverbs, but fools repeat them.
+<em>    &#45; "Samuel Palmer":http://en.wikipedia.org/wiki/Samuel_Palmer</em>
+
+In the End, we will remember not the words of our enemies, but the silence of our friends.
+<em>    &#45; "Martin Luther King Jr.":http://en.wikipedia.org/wiki/Luther_King</em>
+
+In the end, everything is a gag.
+<em>    &#45; "Charlie Chaplin":http://en.wikipedia.org/wiki/Charles_Chaplin_%28disambiguation%29</em>
+
+<hr />
+
+_"Peter Norvig":http://norvig.com/index.html_

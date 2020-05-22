@@ -1,0 +1,645 @@
+.SH Familiar and Unfamiliar Quotations
+.SH About Life (http://norvig.com/quotations.html#life), The Universe (http://norvig.com/quotations.html#universe), Computers, (http://norvig.com/quotations.html#computers) and Everything (http://norvig.com/quotations.html#everything)
+.PP
+   *   *   *   *   *
+.PP
+.PP
+.TS
+tab(@);
+l.
+T{
+\f[B]Life\f[R]
+T}
+.TE
+.PP
+Always do right.
+This will gratify some people and astonish the rest.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Mark Twain (http://en.wikipedia.org/wiki/Mark_twain)\f[R]
+.PP
+A man is a success if he gets up in the morning and gets to bed at
+night, and in between he does what he wants to do.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Bob Dylan (http://en.wikipedia.org/wiki/Bob_Dylan)\f[R]
+.PP
+Don\[aq]t wait for the Last Judgement.
+It takes place every day.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Albert
+Camus (http://en.wikipedia.org/wiki/Albert_Camus)\f[R]
+.PP
+Brick walls are there for a reason.
+They\[aq]re not there to keep us out.
+The brick walls are there to give us a chance to show how badly we want
+something.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Randy Pausch (http://randypausch.com/)\f[R]
+.PP
+Far and away the best prize life has to offer is the chance to work hard
+at work worth doing.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Theodore
+Roosevelt (http://en.wikipedia.org/wiki/Theodore_Roosevelt)\f[R]
+.PP
+I cannot afford to waste my time making money.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Louis
+Agassiz (http://en.wikipedia.org/wiki/Louis_Agassiz)\f[R]
+.PP
+All you have to decide is what you\[aq]re going to do with the time you
+are given.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Gandalf (http://en.wikipedia.org/wiki/Gandalf)\f[R]
+.PP
+The quality of a person\[aq]s life is in direct proportion to their
+commitment to excellence, regardless of their field of endeavor.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Vince Lombardi (http://www.vincelombardi.com/)\f[R]
+.PP
+No art, however minor, demands less than total dedication if you want to
+excel in it.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Leon Battista
+Alberti (http://en.wikipedia.org/wiki/Leone_Battista_Alberti),
+(architect, painter and mathematician)\f[R]
+.PP
+My crystal ball is fuzzy
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Lotfi
+Zadeh (http://www.cs.berkeley.edu/People/Faculty/Homepages/zadeh.html)
+(inventor of Fuzzy Logic, when asked to predict the future)\f[R]
+.PP
+If I had a dollar for every million-dollar idea I\[aq]ve had, I\[aq]d be
+rich.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Greg
+Meyer (http://www.compliancemedia.com/Principals.html)\f[R]
+.PP
+There\[aq]s nothing that will change someone\[aq]s moral outlook quicker
+than cash in large sums.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Larry
+Flynt (http://en.wikipedia.org/wiki/Larry_Flynt)\f[R]
+.PP
+The perfect is the enemy of the good.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Voltaire (http://en.wikipedia.org/wiki/Voltaire)\f[R]
+.PP
+I have great faith in fools.
+Self-confidence, my friends call it.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Edgar Allen
+Poe (http://en.wikipedia.org/wiki/Edgar_Allan_Poe)\f[R]
+.PP
+The point of all this is to be able to spend more time at the beach!
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Nils
+Nilsson (http://robotics.stanford.edu/users/nilsson/bio.html)\f[R]
+.PP
+Being famous has its benefits, but fame isn\[aq]t one of them.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Larry Wall (http://www.wall.org/~larry/)\f[R]
+.PP
+Personally, I liked the university.
+They gave us money and facilities, we didn\[aq]t have to produce
+anything! You\[aq]ve never been out of college! You don\[aq]t know what
+it\[aq]s like out there! I\[aq]ve \f[I]worked\f[R] in the private
+sector.
+They expect \f[I]results\f[R].
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Dr Ray Stanz (Dan
+Aykroyd) (http://www.imdb.com/name/nm0000101/), Ghostbusters\f[R]
+.PP
+A great many people think they are thinking when they are merely
+rearranging their prejudices.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - William
+James (http://en.wikipedia.org/wiki/William_James)\f[R]
+.PP
+It is the mark of an educated mind to be able to entertain a thought
+without accepting it.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Aristotle (http://en.wikipedia.org/wiki/Aristotle)\f[R]
+.PP
+I try to leave out the parts that people skip.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Elmore Leonard (http://en.wikipedia.org/Elmore_Leonard)
+(on his secret to writing)\f[R]
+.PP
+Either write something worth reading or do something worth writing.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Benjamin
+Franklin (http://en.wikipedia.org/wiki/Benjamin_Franklin)\f[R]
+.PP
+Believe, if thou wilt, that mountains change their place, but believe
+not that man changes his nature.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Mohammed (http://en.wikipedia.org/wiki/Mohammed)\f[R]
+.PP
+.PP
+.TS
+tab(@);
+l.
+T{
+\f[B]The Universe\f[R]
+T}
+.TE
+.PP
+In the beginning, the Universe was created.
+This has made a lot of people very angry and been widely regarded as a
+bad move.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Douglas Adams (http://www.douglasadams.com/)\f[R]
+.PP
+Space isn\[aq]t remote at all.
+It\[aq]s only an hour\[aq]s drive away if your car could go straight
+upwards.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Fred Hoyle (http://en.wikipedia.org/wiki/Fred_Hoyle)\f[R]
+.PP
+Man is the best computer we can put aboard a spacecraft...
+and the only one that can be mass produced with unskilled labor.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Wernher von
+Braun (http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html)\f[R]
+.PP
+We can lick gravity, but sometimes the paperwork is overwhelming.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Wernher von
+Braun (http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html)\f[R]
+.PP
+I don\[aq]t see any god up here.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Yuri Gagarin (http://en.wikipedia.org/wiki/Gagarin) (in
+orbit, 1961)\f[R]
+.PP
+Only two things are infinite, the universe and human stupidity, and
+I\[aq]m not sure about the former.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Albert
+Einstein (http://en.wikipedia.org/wiki/Einstein)\f[R]
+.PP
+There are 10^11^ stars in the galaxy.
+That used to be a \f[I]huge\f[R] number.
+But it\[aq]s only a hundred billion.
+It\[aq]s less than the national deficit! We used to call them
+astronomical numbers.
+Now we should call them economical numbers.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Richard Feynman (http://www.feynmanonline.com/)\f[R]
+.PP
+For all our conceits about being the center of the universe, we live in
+a routine planet of a humdrum star stuck away in an obscure corner ...
+on an unexceptional galaxy which is one of about 100 billion galaxies.
+\&...
+That is the fundamental fact of the universe we inhabit, and it is very
+good for us to understand that.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Carl Sagan (http://en.wikipedia.org/wiki/Carl_Sagan)\f[R]
+.PP
+Far out in the uncharted backwaters of the unfashionable end of the
+Western Spiral arm of the Galaxy lies a small unregarded yellow sun.
+Orbiting this at a distance of roughly ninety-eight million miles is an
+utterly insignificant little blue-green planet whose ape-descended life
+forms are so amazingly primitive that they still think digital watches
+are a pretty neat idea.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Douglas Adams (http://www.douglasadams.com/)\f[R]
+.PP
+.PP
+.TS
+tab(@);
+l.
+T{
+\f[B]Computers\f[R]
+T}
+.TE
+.PP
+Some software is actually pretty good, by any standard.
+Think of the Mars Rovers, Google, and the Human Genome Project.
+Now, that\[aq]s quality software!
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Bjarne Stroustrup (http://parasol.tamu.edu/people/bs/),
+(when asked by Technology
+Review (http://www.technologyreview.com/Infotech/17987/?a=f) \[dq]Why is
+software so bad?\[dq]. I\[aq]m proud to have worked on two of those
+three projects.)\f[R]
+.PP
+The world has arrived at an age of cheap complex devices of great
+reliability; and something is bound to come of it.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Vannevar
+Bush (http://en.wikipedia.org/wiki/Vannevar_Bush) (1945)\f[R]
+.PP
+Power corrupts, and obsolete power corrupts obsoletely.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Ted Nelson (http://en.wikipedia.org/wiki/Ted_Nelson), on
+the Microsoft DOS operating system\f[R]
+.PP
+Computers make it easier to do a lot of things, but most of the things
+they make it easier to do don\[aq]t need to be done
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Andy
+Rooney (http://en.wikipedia.org/wiki/Andy_Rooney)\f[R]
+.PP
+As soon as we started programming, we found out to our surprise that it
+wasn\[aq]t as easy to get programs right as we had thought.
+Debugging had to be discovered.
+I can remember the exact instant when I realized that a large part of my
+life from then on was going to be spent in finding mistakes in my own
+programs.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Maurice
+Wilkes (http://en.wikipedia.org/wiki/Maurice_Wilkes)\f[R]
+.PP
+Only wimps use tape backup: \f[I]real\f[R] men just upload their
+important stuff on ftp, and let the rest of the world mirror it.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Linus
+Torvalds (http://en.wikipedia.org/wiki/Linus_Torvalds)\f[R]
+.PP
+C++ is history repeated as tragedy.
+Java is history repeated as farce.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Scott McKay (mailto:swm@mediaone.net)\f[R]
+.PP
+Nothing is destroyed until it is replaced.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Auguste Comte
+(1798-1857) (http://en.wikipedia.org/wiki/Auguste_Comte) (on the need
+for revolutionary new theories (or on the need to do
+\f[CI]x.f = null\f[I] in garbage-collected languages with
+destructors))\f[R]
+.PP
+In general, they do what you want, unless you want consistency.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Larry Wall (http://www.wall.org/~larry/) (on Perl
+functions)\f[R]
+.PP
+Computer language design is just like a stroll in the park.
+Jurassic Park, that is.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Larry Wall (http://www.wall.org/~larry/)\f[R]
+.PP
+If you give someone Fortran, he has Fortran.
+If you give someone Lisp, he has any language he pleases.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Guy L.
+Steele (http://en.wikipedia.org/wiki/Guy_Steele)\f[R]
+.PP
+[Lisp] is the only computer language that is beautiful.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Neal
+Stephenson (http://en.wikipedia.org/wiki/Neal_Stephenson)\f[R]
+.PP
+If you can\[aq]t hear me, it\[aq]s because I\[aq]m in parentheses.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Steven
+Wright (http://en.wikipedia.org/wiki/Steven_Wright)\f[R]
+.PP
+He who refuses to do arithmetic is doomed to talk nonsense.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - John McCarthy (http://www-formal.stanford.edu/jmc/)\f[R]
+.PP
+Belief is no substitute for arithmetic.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Henry Spencer (http://www.lysator.liu.se/c/henry/)\f[R]
+.PP
+Object-oriented programming is an exceptionally bad idea which could
+only have originated in California.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Edsger
+Dijkstra (http://www.cs.utexas.edu/users/UTCS/report/1994/profiles/dijkstra.html)
+(attributed)\f[R]
+.PP
+We read Knuth so you don\[aq]t have to.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ -Tim Peters (http://c2.com/cgi/wiki?TimPeters) (explaining
+what the Python developers do in their spare time)\f[R]
+.PP
+Computers are useless.
+They can only give you answers.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Pablo Picasso (http://en.wikipedia.org/wiki/Picasso)\f[R]
+.PP
+I do not believe in objects.
+I believe only in their relationships.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - George Braque (http://en.wikipedia.org/wiki/Braque)\f[R]
+.PP
+I don\[aq]t paint things.
+I only paint the difference between things.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Henri Matisse (http://en.wikipedia.org/wiki/Matisse)\f[R]
+.PP
+Mathematicians do not study objects, but relations among objects; they
+are indifferent to the replacement of objects by others as long the
+relations don\[aq]t change.
+Matter is not important, only form interests them.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Henri
+Poincare (http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)\f[R]
+.PP
+Have nothing in your houses that you do not know to be useful, or
+believe to be beautiful.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - William Morris (http://www.morrissociety.org/)\f[R]
+.PP
+All models are wrong.
+Some models are useful.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - George
+Box (http://www.engr.wisc.edu/ie/faculty/box_george.html)\f[R]
+.PP
+When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl!
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Brad
+Templeton (http://en.wikipedia.org/wiki/Brad_Templeton)\f[R]
+.PP
+Errors using inadequate data are much less than those using no data at
+all.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Charles
+Babbage (http://en.wikipedia.org/wiki/Babbage)\f[R]
+.PP
+In the future, search engines should be as useful as HAL in the movie
+\f[I]2001: A Space Odyssey\f[R]--but hopefully they won\[aq]t kill
+people.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Sergey
+Brin (http://en.wikipedia.org/wiki/Sergey_Brin)\f[R]
+.PP
+.PP
+.TS
+tab(@);
+l.
+T{
+\f[B]Everything\f[R]
+T}
+.TE
+.PP
+Doubt is not a pleasant condition, but certainty is an absurd one.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Voltaire (http://en.wikipedia.org/wiki/Voltaire)\f[R]
+.PP
+There are three principal ways to lose money: wine, women, and
+engineers.
+While the first two are more pleasant, the third is by far the more
+certain.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Baron
+Rothschild (http://www.jewishpeople.net/barrot.html)\f[R]
+.PP
+God is a hacker, not an engineer.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Francis
+Crick (http://en.wikipedia.org/wiki/Francis_Crick)\f[R]
+.PP
+You can do reverse engineering, but you can\[aq]t do reverse hacking.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - V. S.
+Ramachandran (http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran)\f[R]
+.PP
+I have often thought that if there had been a good rap group in those
+days, I might have chosen a career in music instead of politics.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Richard Nixon (http://en.wikipedia.org/wiki/Nixon)\f[R]
+.PP
+If I have made myself clear, you must have misunderstood me.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Alan
+Greenspan (http://en.wikipedia.org/wiki/Greenspan)\f[R]
+.PP
+Science is like sex: sometimes something useful comes out, but that is
+not the reason we are doing it
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Richard Feynman (http://www.feynmanonline.com/)\f[R]
+.PP
+Literature is mostly about having sex, and not much about having babies;
+life is the other way round.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - David
+Lodge (http://en.wikipedia.org/wiki/David_Lodge_%28author%29)\f[R]
+.PP
+More than any other time in history mankind faces a crossroads.
+One path leads to despair and utter hopelessness, the other to total
+extinction.
+Let us pray we have the wisdom to choose correctly.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ -Woody
+Allen (http://en.wikipedia.org/wiki/Woody_Allen)\f[R]
+.PP
+When you have eliminated the impossible, whatever remains, however
+improbable, must be the truth.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Sir Arthur Conan
+Doyle (http://en.wikipedia.org/wiki/Arthur_Conan_Doyle)\f[R]
+.PP
+Chance favors only the prepared mind.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Louis Pasteur (http://en.wikipedia.org/wiki/Pasteur)\f[R]
+.PP
+Lord, give us the wisdom to utter words that are gentle and tender, for
+tomorrow we may have to eat them.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ -Sen. Morris Udall (http://www.udall.gov/mku.htm)\f[R]
+.PP
+It does not require a majority to prevail, but rather an irate, tireless
+minority keen to set brush fires in people\[aq]s minds.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Samuel Adams (http://www.samadams.com/)\f[R]
+.PP
+I don\[aq]t want to achieve immortality through my work ...
+I want to achieve it through not dying.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Woody
+Allen (http://en.wikipedia.org/wiki/Woody_allen)\f[R]
+.PP
+I am a man of fixed and unbending principles, the first of which is to
+be flexible at all times.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Sen. Everett
+Dirksen (http://en.wikipedia.org/wiki/Dirksen)\f[R]
+.PP
+When I face an issue of great import that cleaves both constituents and
+colleagues, I always take the same approach.
+I engage in deep deliberation and quiet contemplation.
+I wait to the last available minute and then I always vote with the
+losers.
+Because, my friend, the winners never remember and the losers never
+forget.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Sen. Everett
+Dirksen (http://en.wikipedia.org/wiki/Dirksen)\f[R]
+.PP
+Wise men make proverbs, but fools repeat them.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Samuel
+Palmer (http://en.wikipedia.org/wiki/Samuel_Palmer)\f[R]
+.PP
+In the End, we will remember not the words of our enemies, but the
+silence of our friends.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Martin Luther King
+Jr. (http://en.wikipedia.org/wiki/Luther_King)\f[R]
+.PP
+In the end, everything is a gag.
+.PD 0
+.P
+.PD
+\f[I]\ \ \ \ - Charlie
+Chaplin (http://en.wikipedia.org/wiki/Charles_Chaplin_%28disambiguation%29)\f[R]
+.PP
+   *   *   *   *   *
+.PP
+\f[I]Peter Norvig (http://norvig.com/index.html)\f[R]

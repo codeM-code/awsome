@@ -1,0 +1,402 @@
+<div type="level1" xml:id="familiar-and-unfamiliar-quotations">
+  <head>Familiar and Unfamiliar Quotations</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="about-life-the-universe-computers-and-everything">
+  <head>About
+  <ref target="http://norvig.com/quotations.html#life">Life</ref>,
+  <ref target="http://norvig.com/quotations.html#universe">The
+  Universe</ref>,
+  <ref target="http://norvig.com/quotations.html#computers">Computers,</ref>
+  and
+  <ref target="http://norvig.com/quotations.html#everything">Everything</ref></head>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p></p>
+  <table>
+    <row role="label">
+      <cell></cell>
+    </row>
+    <row>
+      <cell><p><hi rendition="simple:bold">Life</hi></p></cell>
+    </row>
+  </table>
+  <p>Always do right. This will gratify some people and astonish the
+  rest.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Mark_twain">Mark
+  Twain</ref></hi></p>
+  <p>A man is a success if he gets up in the morning and gets to bed at
+  night, and in between he does what he wants to
+  do.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Bob_Dylan">Bob
+  Dylan</ref></hi></p>
+  <p>Don't wait for the Last Judgement. It takes place every
+  day.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Albert_Camus">Albert
+  Camus</ref></hi></p>
+  <p>Brick walls are there for a reason. They're not there to keep us
+  out. The brick walls are there to give us a chance to show how badly
+  we want something.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://randypausch.com/">Randy Pausch</ref></hi></p>
+  <p>Far and away the best prize life has to offer is the chance to work
+  hard at work worth doing.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Theodore_Roosevelt">Theodore
+  Roosevelt</ref></hi></p>
+  <p>I cannot afford to waste my time making
+  money.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Louis_Agassiz">Louis
+  Agassiz</ref></hi></p>
+  <p>All you have to decide is what you're going to do with the time you
+  are given.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Gandalf">Gandalf</ref></hi></p>
+  <p>The quality of a person's life is in direct proportion to their
+  commitment to excellence, regardless of their field of
+  endeavor.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.vincelombardi.com/">Vince
+  Lombardi</ref></hi></p>
+  <p>No art, however minor, demands less than total dedication if you
+  want to excel in it.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Leone_Battista_Alberti">Leon
+  Battista Alberti</ref>, (architect, painter and
+  mathematician)</hi></p>
+  <p>My crystal ball is fuzzy<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.cs.berkeley.edu/People/Faculty/Homepages/zadeh.html">Lotfi
+  Zadeh</ref> (inventor of Fuzzy Logic, when asked to predict the
+  future)</hi></p>
+  <p>If I had a dollar for every million-dollar idea I've had, I'd be
+  rich.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.compliancemedia.com/Principals.html">Greg
+  Meyer</ref></hi></p>
+  <p>There's nothing that will change someone's moral outlook quicker
+  than cash in large sums.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Larry_Flynt">Larry
+  Flynt</ref></hi></p>
+  <p>The perfect is the enemy of the
+  good.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Voltaire">Voltaire</ref></hi></p>
+  <p>I have great faith in fools. Self-confidence, my friends call
+  it.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Edgar_Allan_Poe">Edgar Allen
+  Poe</ref></hi></p>
+  <p>The point of all this is to be able to spend more time at the
+  beach!<lb /><hi rendition="simple:italic">    -
+  <ref target="http://robotics.stanford.edu/users/nilsson/bio.html">Nils
+  Nilsson</ref></hi></p>
+  <p>Being famous has its benefits, but fame isn't one of
+  them.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.wall.org/~larry/">Larry Wall</ref></hi></p>
+  <p>Personally, I liked the university. They gave us money and
+  facilities, we didn't have to produce anything! You've never been out
+  of college! You don't know what it's like out there! I've
+  <hi rendition="simple:italic">worked</hi> in the private sector. They
+  expect
+  <hi rendition="simple:italic">results</hi>.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.imdb.com/name/nm0000101/">Dr Ray Stanz (Dan
+  Aykroyd)</ref>, Ghostbusters</hi></p>
+  <p>A great many people think they are thinking when they are merely
+  rearranging their prejudices.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/William_James">William
+  James</ref></hi></p>
+  <p>It is the mark of an educated mind to be able to entertain a
+  thought without accepting it.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Aristotle">Aristotle</ref></hi></p>
+  <p>I try to leave out the parts that people
+  skip.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/Elmore_Leonard">Elmore
+  Leonard</ref> (on his secret to writing)</hi></p>
+  <p>Either write something worth reading or do something worth
+  writing.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Benjamin_Franklin">Benjamin
+  Franklin</ref></hi></p>
+  <p>Believe, if thou wilt, that mountains change their place, but
+  believe not that man changes his
+  nature.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Mohammed">Mohammed</ref></hi></p>
+  <p></p>
+  <table>
+    <row role="label">
+      <cell></cell>
+    </row>
+    <row>
+      <cell><p><hi rendition="simple:bold">The Universe</hi></p></cell>
+    </row>
+  </table>
+  <p>In the beginning, the Universe was created. This has made a lot of
+  people very angry and been widely regarded as a bad
+  move.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.douglasadams.com/">Douglas
+  Adams</ref></hi></p>
+  <p>Space isn't remote at all. It's only an hour's drive away if your
+  car could go straight
+  upwards.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Fred_Hoyle">Fred
+  Hoyle</ref></hi></p>
+  <p>Man is the best computer we can put aboard a spacecraft... and the
+  only one that can be mass produced with unskilled
+  labor.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html">Wernher
+  von Braun</ref></hi></p>
+  <p>We can lick gravity, but sometimes the paperwork is
+  overwhelming.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html">Wernher
+  von Braun</ref></hi></p>
+  <p>I don't see any god up
+  here.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Gagarin">Yuri Gagarin</ref>
+  (in orbit, 1961)</hi></p>
+  <p>Only two things are infinite, the universe and human stupidity, and
+  I'm not sure about the
+  former.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Einstein">Albert
+  Einstein</ref></hi></p>
+  <p>There are 10<hi rendition="simple:superscript">11</hi> stars in the
+  galaxy. That used to be a <hi rendition="simple:italic">huge</hi>
+  number. But it's only a hundred billion. It's less than the national
+  deficit! We used to call them astronomical numbers. Now we should call
+  them economical numbers.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.feynmanonline.com/">Richard
+  Feynman</ref></hi></p>
+  <p>For all our conceits about being the center of the universe, we
+  live in a routine planet of a humdrum star stuck away in an obscure
+  corner ... on an unexceptional galaxy which is one of about 100
+  billion galaxies. ... That is the fundamental fact of the universe we
+  inhabit, and it is very good for us to understand
+  that.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Carl_Sagan">Carl
+  Sagan</ref></hi></p>
+  <p>Far out in the uncharted backwaters of the unfashionable end of the
+  Western Spiral arm of the Galaxy lies a small unregarded yellow sun.
+  Orbiting this at a distance of roughly ninety-eight million miles is
+  an utterly insignificant little blue-green planet whose ape-descended
+  life forms are so amazingly primitive that they still think digital
+  watches are a pretty neat
+  idea.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.douglasadams.com/">Douglas
+  Adams</ref></hi></p>
+  <p></p>
+  <table>
+    <row role="label">
+      <cell></cell>
+    </row>
+    <row>
+      <cell><p><hi rendition="simple:bold">Computers</hi></p></cell>
+    </row>
+  </table>
+  <p>Some software is actually pretty good, by any standard. Think of
+  the Mars Rovers, Google, and the Human Genome Project. Now, that's
+  quality software!<lb /><hi rendition="simple:italic">    -
+  <ref target="http://parasol.tamu.edu/people/bs/">Bjarne
+  Stroustrup</ref>, (when asked by
+  <ref target="http://www.technologyreview.com/Infotech/17987/?a=f">Technology
+  Review</ref> &quot;Why is software so bad?&quot;. I'm proud to have
+  worked on two of those three projects.)</hi></p>
+  <p>The world has arrived at an age of cheap complex devices of great
+  reliability; and something is bound to come of
+  it.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Vannevar_Bush">Vannevar
+  Bush</ref> (1945)</hi></p>
+  <p>Power corrupts, and obsolete power corrupts
+  obsoletely.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Ted_Nelson">Ted
+  Nelson</ref>, on the Microsoft DOS operating system</hi></p>
+  <p>Computers make it easier to do a lot of things, but most of the
+  things they make it easier to do don't need to be
+  done<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Andy_Rooney">Andy
+  Rooney</ref></hi></p>
+  <p>As soon as we started programming, we found out to our surprise
+  that it wasn't as easy to get programs right as we had thought.
+  Debugging had to be discovered. I can remember the exact instant when
+  I realized that a large part of my life from then on was going to be
+  spent in finding mistakes in my own
+  programs.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Maurice_Wilkes">Maurice
+  Wilkes</ref></hi></p>
+  <p>Only wimps use tape backup: <hi rendition="simple:italic">real</hi>
+  men just upload their important stuff on ftp, and let the rest of the
+  world mirror it.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Linus_Torvalds">Linus
+  Torvalds</ref></hi></p>
+  <p>C++ is history repeated as tragedy. Java is history repeated as
+  farce.<lb /><hi rendition="simple:italic">    - Scott McKay
+  (swm@mediaone.net)</hi></p>
+  <p>Nothing is destroyed until it is
+  replaced.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Auguste_Comte">Auguste Comte
+  (1798-1857)</ref> (on the need for revolutionary new theories (or on
+  the need to do <seg type="code">x.f = null</seg> in garbage-collected
+  languages with destructors))</hi></p>
+  <p>In general, they do what you want, unless you want
+  consistency.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.wall.org/~larry/">Larry Wall</ref> (on Perl
+  functions)</hi></p>
+  <p>Computer language design is just like a stroll in the park.
+  Jurassic Park, that is.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.wall.org/~larry/">Larry Wall</ref></hi></p>
+  <p>If you give someone Fortran, he has Fortran. If you give someone
+  Lisp, he has any language he
+  pleases.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Guy_Steele">Guy L.
+  Steele</ref></hi></p>
+  <p>[Lisp] is the only computer language that is
+  beautiful.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Neal_Stephenson">Neal
+  Stephenson</ref></hi></p>
+  <p>If you can't hear me, it's because I'm in
+  parentheses.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Steven_Wright">Steven
+  Wright</ref></hi></p>
+  <p>He who refuses to do arithmetic is doomed to talk
+  nonsense.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www-formal.stanford.edu/jmc/">John
+  McCarthy</ref></hi></p>
+  <p>Belief is no substitute for
+  arithmetic.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.lysator.liu.se/c/henry/">Henry
+  Spencer</ref></hi></p>
+  <p>Object-oriented programming is an exceptionally bad idea which
+  could only have originated in
+  California.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.cs.utexas.edu/users/UTCS/report/1994/profiles/dijkstra.html">Edsger
+  Dijkstra</ref> (attributed)</hi></p>
+  <p>We read Knuth so you don't have
+  to.<lb /><hi rendition="simple:italic">    -<ref target="http://c2.com/cgi/wiki?TimPeters">Tim
+  Peters</ref> (explaining what the Python developers do in their spare
+  time)</hi></p>
+  <p>Computers are useless. They can only give you
+  answers.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Picasso">Pablo
+  Picasso</ref></hi></p>
+  <p>I do not believe in objects. I believe only in their
+  relationships.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Braque">George
+  Braque</ref></hi></p>
+  <p>I don't paint things. I only paint the difference between
+  things.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Matisse">Henri
+  Matisse</ref></hi></p>
+  <p>Mathematicians do not study objects, but relations among objects;
+  they are indifferent to the replacement of objects by others as long
+  the relations don't change. Matter is not important, only form
+  interests them.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9">Henri
+  Poincare</ref></hi></p>
+  <p>Have nothing in your houses that you do not know to be useful, or
+  believe to be beautiful.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.morrissociety.org/">William
+  Morris</ref></hi></p>
+  <p>All models are wrong. Some models are
+  useful.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.engr.wisc.edu/ie/faculty/box_george.html">George
+  Box</ref></hi></p>
+  <p>When cryptography is outlawed, bayl bhgynjf jvyy unir
+  cevinpl!<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Brad_Templeton">Brad
+  Templeton</ref></hi></p>
+  <p>Errors using inadequate data are much less than those using no data
+  at all.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Babbage">Charles
+  Babbage</ref></hi></p>
+  <p>In the future, search engines should be as useful as HAL in the
+  movie <hi rendition="simple:italic">2001: A Space Odyssey</hi>--but
+  hopefully they won't kill
+  people.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Sergey_Brin">Sergey
+  Brin</ref></hi></p>
+  <p></p>
+  <table>
+    <row role="label">
+      <cell></cell>
+    </row>
+    <row>
+      <cell><p><hi rendition="simple:bold">Everything</hi></p></cell>
+    </row>
+  </table>
+  <p>Doubt is not a pleasant condition, but certainty is an absurd
+  one.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Voltaire">Voltaire</ref></hi></p>
+  <p>There are three principal ways to lose money: wine, women, and
+  engineers. While the first two are more pleasant, the third is by far
+  the more certain.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.jewishpeople.net/barrot.html">Baron
+  Rothschild</ref></hi></p>
+  <p>God is a hacker, not an
+  engineer.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Francis_Crick">Francis
+  Crick</ref></hi></p>
+  <p>You can do reverse engineering, but you can't do reverse
+  hacking.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran">V.
+  S. Ramachandran</ref></hi></p>
+  <p>I have often thought that if there had been a good rap group in
+  those days, I might have chosen a career in music instead of
+  politics.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Nixon">Richard
+  Nixon</ref></hi></p>
+  <p>If I have made myself clear, you must have misunderstood
+  me.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Greenspan">Alan
+  Greenspan</ref></hi></p>
+  <p>Science is like sex: sometimes something useful comes out, but that
+  is not the reason we are doing
+  it<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.feynmanonline.com/">Richard
+  Feynman</ref></hi></p>
+  <p>Literature is mostly about having sex, and not much about having
+  babies; life is the other way
+  round.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/David_Lodge_%28author%29">David
+  Lodge</ref></hi></p>
+  <p>More than any other time in history mankind faces a crossroads. One
+  path leads to despair and utter hopelessness, the other to total
+  extinction. Let us pray we have the wisdom to choose
+  correctly.<lb /><hi rendition="simple:italic">    -<ref target="http://en.wikipedia.org/wiki/Woody_Allen">Woody
+  Allen</ref></hi></p>
+  <p>When you have eliminated the impossible, whatever remains, however
+  improbable, must be the
+  truth.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Arthur_Conan_Doyle">Sir
+  Arthur Conan Doyle</ref></hi></p>
+  <p>Chance favors only the prepared
+  mind.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Pasteur">Louis
+  Pasteur</ref></hi></p>
+  <p>Lord, give us the wisdom to utter words that are gentle and tender,
+  for tomorrow we may have to eat
+  them.<lb /><hi rendition="simple:italic">    -<ref target="http://www.udall.gov/mku.htm">Sen.
+  Morris Udall</ref></hi></p>
+  <p>It does not require a majority to prevail, but rather an irate,
+  tireless minority keen to set brush fires in people's
+  minds.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://www.samadams.com/">Samuel Adams</ref></hi></p>
+  <p>I don't want to achieve immortality through my work ... I want to
+  achieve it through not dying.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Woody_allen">Woody
+  Allen</ref></hi></p>
+  <p>I am a man of fixed and unbending principles, the first of which is
+  to be flexible at all times.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Dirksen">Sen. Everett
+  Dirksen</ref></hi></p>
+  <p>When I face an issue of great import that cleaves both constituents
+  and colleagues, I always take the same approach. I engage in deep
+  deliberation and quiet contemplation. I wait to the last available
+  minute and then I always vote with the losers. Because, my friend, the
+  winners never remember and the losers never
+  forget.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Dirksen">Sen. Everett
+  Dirksen</ref></hi></p>
+  <p>Wise men make proverbs, but fools repeat
+  them.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Samuel_Palmer">Samuel
+  Palmer</ref></hi></p>
+  <p>In the End, we will remember not the words of our enemies, but the
+  silence of our friends.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Luther_King">Martin Luther
+  King Jr.</ref></hi></p>
+  <p>In the end, everything is a
+  gag.<lb /><hi rendition="simple:italic">    -
+  <ref target="http://en.wikipedia.org/wiki/Charles_Chaplin_%28disambiguation%29">Charlie
+  Chaplin</ref></hi></p>
+  <milestone unit="undefined" type="separator" rendition="line" />
+  <p><hi rendition="simple:italic"><ref target="http://norvig.com/index.html">Peter
+  Norvig</ref></hi></p>
+</div>

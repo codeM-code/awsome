@@ -1,0 +1,484 @@
+\section[title={Familiar and Unfamiliar
+Quotations},reference={familiar-and-unfamiliar-quotations}]
+
+\section[title={About
+\useURL[url1][http://norvig.com/quotations.html\#life][][Life]\from[url1],
+\useURL[url2][http://norvig.com/quotations.html\#universe][][The
+Universe]\from[url2],
+\useURL[url3][http://norvig.com/quotations.html\#computers][][Computers,]\from[url3]
+and
+\useURL[url4][http://norvig.com/quotations.html\#everything][][Everything]\from[url4]},reference={about-life-the-universe-computers-and-everything}]
+
+\thinrule
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell {\bf Life} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+Always do right. This will gratify some people and astonish the
+rest.\crlf
+{\em ~~~~- \useURL[url5][http://en.wikipedia.org/wiki/Mark_twain][][Mark
+Twain]\from[url5]}
+
+A man is a success if he gets up in the morning and gets to bed at
+night, and in between he does what he wants to do.\crlf
+{\em ~~~~- \useURL[url6][http://en.wikipedia.org/wiki/Bob_Dylan][][Bob
+Dylan]\from[url6]}
+
+Don't wait for the Last Judgement. It takes place every day.\crlf
+{\em ~~~~-
+\useURL[url7][http://en.wikipedia.org/wiki/Albert_Camus][][Albert
+Camus]\from[url7]}
+
+Brick walls are there for a reason. They're not there to keep us out.
+The brick walls are there to give us a chance to show how badly we want
+something.\crlf
+{\em ~~~~- \useURL[url8][http://randypausch.com/][][Randy
+Pausch]\from[url8]}
+
+Far and away the best prize life has to offer is the chance to work hard
+at work worth doing.\crlf
+{\em ~~~~-
+\useURL[url9][http://en.wikipedia.org/wiki/Theodore_Roosevelt][][Theodore
+Roosevelt]\from[url9]}
+
+I cannot afford to waste my time making money.\crlf
+{\em ~~~~-
+\useURL[url10][http://en.wikipedia.org/wiki/Louis_Agassiz][][Louis
+Agassiz]\from[url10]}
+
+All you have to decide is what you're going to do with the time you are
+given.\crlf
+{\em ~~~~-
+\useURL[url11][http://en.wikipedia.org/wiki/Gandalf][][Gandalf]\from[url11]}
+
+The quality of a person's life is in direct proportion to their
+commitment to excellence, regardless of their field of endeavor.\crlf
+{\em ~~~~- \useURL[url12][http://www.vincelombardi.com/][][Vince
+Lombardi]\from[url12]}
+
+No art, however minor, demands less than total dedication if you want to
+excel in it.\crlf
+{\em ~~~~-
+\useURL[url13][http://en.wikipedia.org/wiki/Leone_Battista_Alberti][][Leon
+Battista Alberti]\from[url13], (architect, painter and mathematician)}
+
+My crystal ball is fuzzy\crlf
+{\em ~~~~-
+\useURL[url14][http://www.cs.berkeley.edu/People/Faculty/Homepages/zadeh.html][][Lotfi
+Zadeh]\from[url14] (inventor of Fuzzy Logic, when asked to predict the
+future)}
+
+If I had a dollar for every million-dollar idea I've had, I'd be
+rich.\crlf
+{\em ~~~~-
+\useURL[url15][http://www.compliancemedia.com/Principals.html][][Greg
+Meyer]\from[url15]}
+
+There's nothing that will change someone's moral outlook quicker than
+cash in large sums.\crlf
+{\em ~~~~-
+\useURL[url16][http://en.wikipedia.org/wiki/Larry_Flynt][][Larry
+Flynt]\from[url16]}
+
+The perfect is the enemy of the good.\crlf
+{\em ~~~~-
+\useURL[url17][http://en.wikipedia.org/wiki/Voltaire][][Voltaire]\from[url17]}
+
+I have great faith in fools. Self-confidence, my friends call it.\crlf
+{\em ~~~~-
+\useURL[url18][http://en.wikipedia.org/wiki/Edgar_Allan_Poe][][Edgar
+Allen Poe]\from[url18]}
+
+The point of all this is to be able to spend more time at the
+beach!\crlf
+{\em ~~~~-
+\useURL[url19][http://robotics.stanford.edu/users/nilsson/bio.html][][Nils
+Nilsson]\from[url19]}
+
+Being famous has its benefits, but fame isn't one of them.\crlf
+{\em ~~~~- \useURL[url20][http://www.wall.org/~larry/][][Larry
+Wall]\from[url20]}
+
+Personally, I liked the university. They gave us money and facilities,
+we didn't have to produce anything! You've never been out of college!
+You don't know what it's like out there! I've {\em worked} in the
+private sector. They expect {\em results}.\crlf
+{\em ~~~~- \useURL[url21][http://www.imdb.com/name/nm0000101/][][Dr Ray
+Stanz (Dan Aykroyd)]\from[url21], Ghostbusters}
+
+A great many people think they are thinking when they are merely
+rearranging their prejudices.\crlf
+{\em ~~~~-
+\useURL[url22][http://en.wikipedia.org/wiki/William_James][][William
+James]\from[url22]}
+
+It is the mark of an educated mind to be able to entertain a thought
+without accepting it.\crlf
+{\em ~~~~-
+\useURL[url23][http://en.wikipedia.org/wiki/Aristotle][][Aristotle]\from[url23]}
+
+I try to leave out the parts that people skip.\crlf
+{\em ~~~~-
+\useURL[url24][http://en.wikipedia.org/Elmore_Leonard][][Elmore
+Leonard]\from[url24] (on his secret to writing)}
+
+Either write something worth reading or do something worth writing.\crlf
+{\em ~~~~-
+\useURL[url25][http://en.wikipedia.org/wiki/Benjamin_Franklin][][Benjamin
+Franklin]\from[url25]}
+
+Believe, if thou wilt, that mountains change their place, but believe
+not that man changes his nature.\crlf
+{\em ~~~~-
+\useURL[url26][http://en.wikipedia.org/wiki/Mohammed][][Mohammed]\from[url26]}
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell {\bf The Universe} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+In the beginning, the Universe was created. This has made a lot of
+people very angry and been widely regarded as a bad move.\crlf
+{\em ~~~~- \useURL[url27][http://www.douglasadams.com/][][Douglas
+Adams]\from[url27]}
+
+Space isn't remote at all. It's only an hour's drive away if your car
+could go straight upwards.\crlf
+{\em ~~~~-
+\useURL[url28][http://en.wikipedia.org/wiki/Fred_Hoyle][][Fred
+Hoyle]\from[url28]}
+
+Man is the best computer we can put aboard a spacecraft... and the only
+one that can be mass produced with unskilled labor.\crlf
+{\em ~~~~-
+\useURL[url29][http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html][][Wernher
+von Braun]\from[url29]}
+
+We can lick gravity, but sometimes the paperwork is overwhelming.\crlf
+{\em ~~~~-
+\useURL[url30][http://liftoff.msfc.nasa.gov/academy/history/vonBraun/vonBraun.html][][Wernher
+von Braun]\from[url30]}
+
+I don't see any god up here.\crlf
+{\em ~~~~- \useURL[url31][http://en.wikipedia.org/wiki/Gagarin][][Yuri
+Gagarin]\from[url31] (in orbit, 1961)}
+
+Only two things are infinite, the universe and human stupidity, and I'm
+not sure about the former.\crlf
+{\em ~~~~-
+\useURL[url32][http://en.wikipedia.org/wiki/Einstein][][Albert
+Einstein]\from[url32]}
+
+There are 10\high{11} stars in the galaxy. That used to be a {\em huge}
+number. But it's only a hundred billion. It's less than the national
+deficit! We used to call them astronomical numbers. Now we should call
+them economical numbers.\crlf
+{\em ~~~~- \useURL[url33][http://www.feynmanonline.com/][][Richard
+Feynman]\from[url33]}
+
+For all our conceits about being the center of the universe, we live in
+a routine planet of a humdrum star stuck away in an obscure corner ...
+on an unexceptional galaxy which is one of about 100 billion galaxies.
+... That is the fundamental fact of the universe we inhabit, and it is
+very good for us to understand that.\crlf
+{\em ~~~~-
+\useURL[url34][http://en.wikipedia.org/wiki/Carl_Sagan][][Carl
+Sagan]\from[url34]}
+
+Far out in the uncharted backwaters of the unfashionable end of the
+Western Spiral arm of the Galaxy lies a small unregarded yellow sun.
+Orbiting this at a distance of roughly ninety-eight million miles is an
+utterly insignificant little blue-green planet whose ape-descended life
+forms are so amazingly primitive that they still think digital watches
+are a pretty neat idea.\crlf
+{\em ~~~~- \useURL[url35][http://www.douglasadams.com/][][Douglas
+Adams]\from[url35]}
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell {\bf Computers} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+Some software is actually pretty good, by any standard. Think of the
+Mars Rovers, Google, and the Human Genome Project. Now, that's quality
+software!\crlf
+{\em ~~~~- \useURL[url36][http://parasol.tamu.edu/people/bs/][][Bjarne
+Stroustrup]\from[url36], (when asked by
+\useURL[url37][http://www.technologyreview.com/Infotech/17987/?a=f][][Technology
+Review]\from[url37] "Why is software so bad?". I'm proud to have worked
+on two of those three projects.)}
+
+The world has arrived at an age of cheap complex devices of great
+reliability; and something is bound to come of it.\crlf
+{\em ~~~~-
+\useURL[url38][http://en.wikipedia.org/wiki/Vannevar_Bush][][Vannevar
+Bush]\from[url38] (1945)}
+
+Power corrupts, and obsolete power corrupts obsoletely.\crlf
+{\em ~~~~- \useURL[url39][http://en.wikipedia.org/wiki/Ted_Nelson][][Ted
+Nelson]\from[url39], on the Microsoft DOS operating system}
+
+Computers make it easier to do a lot of things, but most of the things
+they make it easier to do don't need to be done\crlf
+{\em ~~~~-
+\useURL[url40][http://en.wikipedia.org/wiki/Andy_Rooney][][Andy
+Rooney]\from[url40]}
+
+As soon as we started programming, we found out to our surprise that it
+wasn't as easy to get programs right as we had thought. Debugging had to
+be discovered. I can remember the exact instant when I realized that a
+large part of my life from then on was going to be spent in finding
+mistakes in my own programs.\crlf
+{\em ~~~~-
+\useURL[url41][http://en.wikipedia.org/wiki/Maurice_Wilkes][][Maurice
+Wilkes]\from[url41]}
+
+Only wimps use tape backup: {\em real} men just upload their important
+stuff on ftp, and let the rest of the world mirror it.\crlf
+{\em ~~~~-
+\useURL[url42][http://en.wikipedia.org/wiki/Linus_Torvalds][][Linus
+Torvalds]\from[url42]}
+
+C++ is history repeated as tragedy. Java is history repeated as
+farce.\crlf
+{\em ~~~~- \useURL[url43][mailto:swm@mediaone.net][][Scott
+McKay]\from[url43]}
+
+Nothing is destroyed until it is replaced.\crlf
+{\em ~~~~-
+\useURL[url44][http://en.wikipedia.org/wiki/Auguste_Comte][][Auguste
+Comte (1798-1857)]\from[url44] (on the need for revolutionary new
+theories (or on the need to do \type{x.f = null} in garbage-collected
+languages with destructors))}
+
+In general, they do what you want, unless you want consistency.\crlf
+{\em ~~~~- \useURL[url45][http://www.wall.org/~larry/][][Larry
+Wall]\from[url45] (on Perl functions)}
+
+Computer language design is just like a stroll in the park. Jurassic
+Park, that is.\crlf
+{\em ~~~~- \useURL[url46][http://www.wall.org/~larry/][][Larry
+Wall]\from[url46]}
+
+If you give someone Fortran, he has Fortran. If you give someone Lisp,
+he has any language he pleases.\crlf
+{\em ~~~~- \useURL[url47][http://en.wikipedia.org/wiki/Guy_Steele][][Guy
+L. Steele]\from[url47]}
+
+{[}Lisp{]} is the only computer language that is beautiful.\crlf
+{\em ~~~~-
+\useURL[url48][http://en.wikipedia.org/wiki/Neal_Stephenson][][Neal
+Stephenson]\from[url48]}
+
+If you can't hear me, it's because I'm in parentheses.\crlf
+{\em ~~~~-
+\useURL[url49][http://en.wikipedia.org/wiki/Steven_Wright][][Steven
+Wright]\from[url49]}
+
+He who refuses to do arithmetic is doomed to talk nonsense.\crlf
+{\em ~~~~- \useURL[url50][http://www-formal.stanford.edu/jmc/][][John
+McCarthy]\from[url50]}
+
+Belief is no substitute for arithmetic.\crlf
+{\em ~~~~- \useURL[url51][http://www.lysator.liu.se/c/henry/][][Henry
+Spencer]\from[url51]}
+
+Object-oriented programming is an exceptionally bad idea which could
+only have originated in California.\crlf
+{\em ~~~~-
+\useURL[url52][http://www.cs.utexas.edu/users/UTCS/report/1994/profiles/dijkstra.html][][Edsger
+Dijkstra]\from[url52] (attributed)}
+
+We read Knuth so you don't have to.\crlf
+{\em ~~~~-\useURL[url53][http://c2.com/cgi/wiki?TimPeters][][Tim
+Peters]\from[url53] (explaining what the Python developers do in their
+spare time)}
+
+Computers are useless. They can only give you answers.\crlf
+{\em ~~~~- \useURL[url54][http://en.wikipedia.org/wiki/Picasso][][Pablo
+Picasso]\from[url54]}
+
+I do not believe in objects. I believe only in their relationships.\crlf
+{\em ~~~~- \useURL[url55][http://en.wikipedia.org/wiki/Braque][][George
+Braque]\from[url55]}
+
+I don't paint things. I only paint the difference between things.\crlf
+{\em ~~~~- \useURL[url56][http://en.wikipedia.org/wiki/Matisse][][Henri
+Matisse]\from[url56]}
+
+Mathematicians do not study objects, but relations among objects; they
+are indifferent to the replacement of objects by others as long the
+relations don't change. Matter is not important, only form interests
+them.\crlf
+{\em ~~~~-
+\useURL[url57][http://en.wikipedia.org/wiki/Henri_Poincar\%C3\%A9][][Henri
+Poincare]\from[url57]}
+
+Have nothing in your houses that you do not know to be useful, or
+believe to be beautiful.\crlf
+{\em ~~~~- \useURL[url58][http://www.morrissociety.org/][][William
+Morris]\from[url58]}
+
+All models are wrong. Some models are useful.\crlf
+{\em ~~~~-
+\useURL[url59][http://www.engr.wisc.edu/ie/faculty/box_george.html][][George
+Box]\from[url59]}
+
+When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl!\crlf
+{\em ~~~~-
+\useURL[url60][http://en.wikipedia.org/wiki/Brad_Templeton][][Brad
+Templeton]\from[url60]}
+
+Errors using inadequate data are much less than those using no data at
+all.\crlf
+{\em ~~~~-
+\useURL[url61][http://en.wikipedia.org/wiki/Babbage][][Charles
+Babbage]\from[url61]}
+
+In the future, search engines should be as useful as HAL in the movie
+{\em 2001: A Space Odyssey}--but hopefully they won't kill people.\crlf
+{\em ~~~~-
+\useURL[url62][http://en.wikipedia.org/wiki/Sergey_Brin][][Sergey
+Brin]\from[url62]}
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell {\bf Everything} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+Doubt is not a pleasant condition, but certainty is an absurd one.\crlf
+{\em ~~~~-
+\useURL[url63][http://en.wikipedia.org/wiki/Voltaire][][Voltaire]\from[url63]}
+
+There are three principal ways to lose money: wine, women, and
+engineers. While the first two are more pleasant, the third is by far
+the more certain.\crlf
+{\em ~~~~-
+\useURL[url64][http://www.jewishpeople.net/barrot.html][][Baron
+Rothschild]\from[url64]}
+
+God is a hacker, not an engineer.\crlf
+{\em ~~~~-
+\useURL[url65][http://en.wikipedia.org/wiki/Francis_Crick][][Francis
+Crick]\from[url65]}
+
+You can do reverse engineering, but you can't do reverse hacking.\crlf
+{\em ~~~~-
+\useURL[url66][http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran][][V.
+S. Ramachandran]\from[url66]}
+
+I have often thought that if there had been a good rap group in those
+days, I might have chosen a career in music instead of politics.\crlf
+{\em ~~~~- \useURL[url67][http://en.wikipedia.org/wiki/Nixon][][Richard
+Nixon]\from[url67]}
+
+If I have made myself clear, you must have misunderstood me.\crlf
+{\em ~~~~- \useURL[url68][http://en.wikipedia.org/wiki/Greenspan][][Alan
+Greenspan]\from[url68]}
+
+Science is like sex: sometimes something useful comes out, but that is
+not the reason we are doing it\crlf
+{\em ~~~~- \useURL[url69][http://www.feynmanonline.com/][][Richard
+Feynman]\from[url69]}
+
+Literature is mostly about having sex, and not much about having babies;
+life is the other way round.\crlf
+{\em ~~~~-
+\useURL[url70][http://en.wikipedia.org/wiki/David_Lodge_\%28author\%29][][David
+Lodge]\from[url70]}
+
+More than any other time in history mankind faces a crossroads. One path
+leads to despair and utter hopelessness, the other to total extinction.
+Let us pray we have the wisdom to choose correctly.\crlf
+{\em ~~~~-\useURL[url71][http://en.wikipedia.org/wiki/Woody_Allen][][Woody
+Allen]\from[url71]}
+
+When you have eliminated the impossible, whatever remains, however
+improbable, must be the truth.\crlf
+{\em ~~~~-
+\useURL[url72][http://en.wikipedia.org/wiki/Arthur_Conan_Doyle][][Sir
+Arthur Conan Doyle]\from[url72]}
+
+Chance favors only the prepared mind.\crlf
+{\em ~~~~- \useURL[url73][http://en.wikipedia.org/wiki/Pasteur][][Louis
+Pasteur]\from[url73]}
+
+Lord, give us the wisdom to utter words that are gentle and tender, for
+tomorrow we may have to eat them.\crlf
+{\em ~~~~-\useURL[url74][http://www.udall.gov/mku.htm][][Sen. Morris
+Udall]\from[url74]}
+
+It does not require a majority to prevail, but rather an irate, tireless
+minority keen to set brush fires in people's minds.\crlf
+{\em ~~~~- \useURL[url75][http://www.samadams.com/][][Samuel
+Adams]\from[url75]}
+
+I don't want to achieve immortality through my work ... I want to
+achieve it through not dying.\crlf
+{\em ~~~~-
+\useURL[url76][http://en.wikipedia.org/wiki/Woody_allen][][Woody
+Allen]\from[url76]}
+
+I am a man of fixed and unbending principles, the first of which is to
+be flexible at all times.\crlf
+{\em ~~~~- \useURL[url77][http://en.wikipedia.org/wiki/Dirksen][][Sen.
+Everett Dirksen]\from[url77]}
+
+When I face an issue of great import that cleaves both constituents and
+colleagues, I always take the same approach. I engage in deep
+deliberation and quiet contemplation. I wait to the last available
+minute and then I always vote with the losers. Because, my friend, the
+winners never remember and the losers never forget.\crlf
+{\em ~~~~- \useURL[url78][http://en.wikipedia.org/wiki/Dirksen][][Sen.
+Everett Dirksen]\from[url78]}
+
+Wise men make proverbs, but fools repeat them.\crlf
+{\em ~~~~-
+\useURL[url79][http://en.wikipedia.org/wiki/Samuel_Palmer][][Samuel
+Palmer]\from[url79]}
+
+In the End, we will remember not the words of our enemies, but the
+silence of our friends.\crlf
+{\em ~~~~-
+\useURL[url80][http://en.wikipedia.org/wiki/Luther_King][][Martin Luther
+King Jr.]\from[url80]}
+
+In the end, everything is a gag.\crlf
+{\em ~~~~-
+\useURL[url81][http://en.wikipedia.org/wiki/Charles_Chaplin_\%28disambiguation\%29][][Charlie
+Chaplin]\from[url81]}
+
+\thinrule
+
+{\em \useURL[url82][http://norvig.com/index.html][][Peter
+Norvig]\from[url82]}
