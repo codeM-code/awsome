@@ -29,12 +29,13 @@ notes and trivia - funny important crazy or whatever - just: awsome
 ---
 ## shared resources @github
 
-### Contriuters
-- [@GoLangsam](https.//githob.com/GoLangsam/)
-- [@codeM-gmbh](https.//githob.com/codeM-gmbh/)
+### Contributers
+- [@GoLangsam](https.//githob.com/GoLangsam/) aka APa
+- [@tomcode4hh](https://github.com/tomcode4hh/) aka Tom
+- [@codeM-gmbh](https.//githob.com/codeM-gmbh/) aka codeM
 
 ### Shared Spaces
-TODO: add a line for each forked repos
+TODO: add a line for each forked repo
 
 - [code](https.//githob.com/codeM-code/) - Organisation for code and awsome notes
   - [awsome](https.//githob.com/codeM-code/awsome) - here we keep notes
