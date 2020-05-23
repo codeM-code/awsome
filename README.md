@@ -66,6 +66,7 @@ TODO: add a line for each forked repos
 - [SqLite](sqlite.md) - persist stuff
 - [TeleGram](telegram.md) - let's be in touch
 - [pandoc](pandoc.md) - same story - another format
+- [Typora](https.//Typora.io/) - a Markdown-Editor 
 - [reveal.js](reveal.md) - present in 2D
 - [teamview.js](teamview.md)
 - ...
