@@ -4,22 +4,56 @@ notes and trivia - funny important crazy or whatever - just: awsome
 ## What's Up?
 
 - [meta](meta.md)
+  - Alle Zettel sind immer entweder zu lang, oder zu kurz.
+  - Alle Infos sind immer entweder zu lang, oder zu kurz.
+
 - [mesa](mesa.md)
-    1. [nodeDB](nodedb.md)
-    1. [GitHub](github.md)
-    1. [µKanren](kanren.md)
+    1. [nodeDB](nodedb.md) - May it persist.
+    1. [GitHub](github.md) - Let's use git and it.
+    1. [µKanren](kanren.md) - Let's program relational logic
     1. [mal](mal.md) - Let's Make a Lisp
     1. [fp](fp.md) - Let's Func function
+
 - [misc](misc.md) - der _Lumpensammler_ :-)
 
----
-- [todo](todo.md)
-- [done](done.md)
+- [idle](idle.md) - from `mesa`, just sleeping currently
+  1. ...
 
+- [todo](todo.md)
+  - [ ] welche Zettel wollen wir wirklich?
+  - [ ] ...
+
+- [done](done.md)
+  - [x] ...
+
+---
+## shared resources @github
+
+### Contriuters
+- [@GoLangsam](https.//githob.com/GoLangsam/)
+- [@codeM-gmbh](https.//githob.com/codeM-gmbh/)
+
+### Shared Spaces
+TODO: add a line for each forked repos
+
+- [code](https.//githob.com/codeM-code/) - Organisation for code and awsome notes
+  - [awsome](https.//githob.com/codeM-code/awsome) - here we keep notes
+    Note: the misspelling is intentional - we do not encourage to be found
+
+- [yali](https.//githob.com/go-yali/) - Organisation for yet another lisp interpreter
+  Here we learn about Lisp
+  - [yali](https.//githob.com/go-yali/yali) - here we build yet another lisp interpreter
+
+- [nodeDB](https.//githob.com/go-nodedb/) - Organisation for a persistency layer
+  - [nodedb](https.//githob.com/go-nodedb/nodedb) - [import "gopkg.in/nodedb"]()here is the persistency layer
+    TODO: move nodeDb-repo from `codeM-code` to here
+
+---
 ## shared topics of interest
 
 - [Go](golang.md)
   - [3rd party packages](go.mod.md)
+
 
 ## Full-Stack Web Development
 - [Vue.js](vue.md)
@@ -64,3 +98,6 @@ notes and trivia - funny important crazy or whatever - just: awsome
 - quines
 - toys
 - ...
+
+## Who-is-Who?
+This might become a nice list of notable people ...
