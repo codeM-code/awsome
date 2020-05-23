@@ -1,0 +1,258 @@
+                                   Sage v1.3
+
+        Copyright (c) 1990-1991 Services Rendered   All Rights Reserved 
+
+What is it? 
+
+Sage is a Windows application that displays over 4,000 gems of wisdom.  You 
+can adjust the fonts and colors of the quote messages, as well as add your 
+own.  The quote window is resizeable, and comes up where you last put it.  
+Sage is ATM, FaceLift and Publisher's PowerPak-compatible. 
+
+Keywords:  SAGE QUOTE WISDOM
+
+Getting Started Quickly 
+
+The program SAGE.EXE and file SAGE.DAT should be put somewhere in your search 
+path (typically C:\WINDOWS).  Using the "Sage Options..." menu selection, you 
+can add Sage to your WIN.INI file to automatically have it start when Windows 
+does. 
+
+Included in the package 
+ 
+  -            SAGE.EXE, a Windows application 
+  -            SAGE.DAT, the companion quotes text file
+  -            SAGE.WRI, these application notes
+  -            SAGE.DOC, a text-only version of this file (same as SAGE.WRI)
+
+Version Information and History
+
+11/18/1990     Version 1.0      Initial release
+
+11/25/1990     Version 1.1      Added more background color choices 
+
+01/01/1991     Version 1.2      "Find" will now find comment lines, memory 
+access cleaned up, PostScript printer better supported, more foreground color 
+choices, and even more quotes! 
+
+03/19/1991     Version 1.3      "Find" will now let you search only quotes or 
+authors if you want.  The "Options" menu will now let you choose to avoid 
+covering up icons at the bottom of your screen. You can add quotes to your 
+database from an additions file (SAGE.ADD). You can also order Sage using a 
+credit card, which makes telephone and FAX ordering a convenient alternative 
+to checks. 
+
+Registration Considerations 
+
+You have obtained an un-registered version of Sage which is being marketed 
+under the "Shareware" concept.  As such, it is a fully working version of the 
+product, with complete documentation.  In its unregistered state, Sage will 
+display an informative message when it is first run. When you register the 
+program with Services Rendered for $10, you will be free of the startup 
+message and be entitled to 1/2 hour of software support. 
+
+You may register the product by mail with a personal or business check.   To 
+order, select "Print Order Form..." from the Sage control menu.  The order 
+form is designed to be folded and mailed without an envelope, although you can 
+choose to use one if you would prefer. 
+
+Address:       
+                        Services Rendered 
+                        455 14th. Street 
+                        San Francisco, CA 94103 
+
+You can also order Sage from the Public (software) Library with your MC, Visa, 
+American Express or Discover card by calling 800-2424-PsL or 713-524-6394; or 
+by FAX to 713-524-6398. These numbers are for ordering only. For information 
+about dealer pricing, volume discounts, site licensing, shipping of product, 
+returns, latest version number or other technical information, please write to 
+Services Rendered at the above address.  Telephone or FAX orders are subject 
+to a $4.00 for shipping and handling, which makes the total price $14.00. 
+
+By registering, you receive the following benefits: 
+
+  -            Your registration code.
+  -            1/2 hour of free technical support by the author.
+  -            Periodic notification of upgrades and enhancements. 
+  -            No startup screen.
+
+You are authorized to make as many copies of the un-registered version of the 
+product as you would like, and to distribute them freely to individuals or 
+onto bulletin boards.  You must, however abide by this one simple rule ... 
+that you always include with such distribution all of the files that you have 
+received. 
+
+Upgrading from v1.1 to v1.3
+
+If you are a registered user of Sage v1.1, you will need to reenter your 
+assigned registration code.  Just follow the instructions in your original 
+registration letter to validate version 1.3. 
+
+Upgrading from v1.2 to v1.3
+
+If you are a registered user of Sage v1.2, you can simply copy the new 
+SAGE.EXE over your old copy without reregistering. 
+
+Installing Sage 
+
+Change to your \WINDOWS subdirectory and copy the zipfile SAGE13.ZIP to it. 
+Type: 
+
+               PKUNZIP SAGE13
+
+to unpack the files to your system. 
+
+Starting Sage the first time
+
+Select "File" from the Program Manager, then select "Run".  Type "Sage" and 
+select "OK". 
+
+Adding Sage to the Program Manager 
+
+With Sage running, move the mouse to the Sage system control and click once to 
+see the command menu.  Select "Sage Options...".  Click once on the "Install 
+Sage in Program Manager" button to install. 
+
+Starting Sage from the Program Manager
+
+Double-click on the "Sage" icon in the Program Manager to start the program.  
+
+Closing Sage
+
+You can type Esc (or choose "Close" from the command menu) to end the program. 
+
+Starting Sage Automatically with Windows 
+
+With Sage running, move the mouse to the Sage system control and click once to 
+see the command menu.  Select "Sage Options...".  Click once on the "Start 
+Sage automatically" button to automatically load Sage the next time you start 
+Windows. The Sage window will reappear in the same place every time. 
+
+Showing the Next or Previous Quote
+
+By pressing Space or Backspace, you can display the next or previous quote. Up 
+to 10 previous quotes are remembered. 
+
+Finding Quotes
+
+You can find a specific quote, or all quotes that feature a specific word.  
+Type Ctrl-F (or choose "Find..." from the command menu) and enter the word 
+you'd like to find.  Upper and lower case are ignored.  You can find the next 
+quote featuring the word by typing Ctrl-E (or choosing "Find Next" from the 
+command menu.) 
+
+"Find" will let you search only quotes or authors if you want.  Just select 
+"Quotes" or "Authors" from the "Find In..." box to restrict your search. 
+
+Entering Your Own Quotes
+
+You can add your own gems of wisdom one by one to the quote program by typing 
+Ctrl-A (or choose "Add Quote..." from the command menu.)  You can specify up 
+to 1000 characters of quote and byline information for each quote.  If you 
+want to put a carriage return in the middle of a quote or byline, type Ctrl-
+Enter to go to a new line.  Long quotes may scroll off the window as you type 
+them; this is normal.  
+
+Entering Lots of Quotes at Once
+
+You can add bunches of quotes at a time to Sage by putting a file called 
+SAGE.ADD in the same directory as SAGE.DAT.  When Sage is started, it will 
+automatically look for and try to add SAGE.ADD to your database of quotes.  
+After the quotes are added, Sage will confirm that you want to get rid of 
+SAGE.ADD before deleting it. 
+
+If Sage is running when you create SAGE.ADD, you can add the quotes from the 
+Options menu.  Move the mouse to the Sage system control and click once to see 
+the command menu.  Select "Sage Options...".  Click once on the "Add quotes 
+from SAGE.ADD" button to copy the quotes from your SAGE.ADD file into 
+SAGE.DAT, then click on "Yes" to delete the now-spent SAGE.ADD file. 
+
+Copying Quotes to the Clipboard
+
+You can copy a relevant quote to the clipboard, and then to any document.  
+When the quote you want to clip is displayed, type Ctrl-Insert (or choose 
+"Copy" from the command menu.) 
+
+Sage Options
+
+With Sage running, move the mouse to the Sage system control and click once to 
+see the command menu.  Select "Sage Options...".  From the Sage Options 
+dialog, you can set how many minutes must elapse before a new quote is 
+displayed anywhere from 1 to 1440 minutes (1440 minutes is 24 hours between 
+quotes.) 
+
+PostScript Quotation Marks
+
+If you use Adobe Type Manager and check the "ATM PostScript Quotation Marks" 
+checkbox, the quote will be surrounded in typographical quote marks instead of 
+the generic vertical quote marks. PostScript fonts, created on-the-fly by ATM, 
+have these special quote characters.  If you see a black box, vertical bar or 
+dots instead of quote marks with this option set, the font you've chosen does 
+not contain the special quote characters.  Uncheck the box or select another 
+PostScript font. 
+
+Unfortunately, both BitStream FaceLift and Publisher's PowerPak do not have 
+the forward and reverse quote marks in their fonts.  While Sage will still 
+produce beautiful results with their products, you won't be able to show 
+PostScript quotation marks with them. 
+
+Typeface and Font Selection
+
+You can set the typeface used to display quotes and bylines, as well as the 
+colors used in the window.  Choose "OK" to make the changes take effect.  You 
+can choose any Windows font at any point size from 1 to 127.  If you don't 
+want the byline displayed, choose the same color for both the byline and the 
+background. 
+
+Quitting Sage 
+
+You can quit Sage by choosing "Close" from it's command menu, or you can 
+simply press "Esc". 
+
+For Advanced Users:  Setting the Quote File Path 
+
+If you want to store the SAGE.DAT file away from the SAGE.EXE file, you can 
+explicitly direct Sage to look for it somewhere else.  Add a line to the 
+SAGE.INI file that says: 
+
+               QuoteFile=C:\QUOTES\SAGE.DAT
+
+to cause Sage to look elsewhere. 
+
+Text File Format
+
+If you want, you can add your own gems of wisdom manually.  The quote text 
+file SAGE.DAT is fully editable using any text editor, and can contain any 
+number of quotes.  
+
+Comment lines, which are never displayed, start with two slashes, like this: 
+
+// This is a comment,
+// and this is another.
+
+Each quote has its own line, and looks like this:
+
+Neuroses are red,^Melancholia's blue.
+"Furious activity is no substitute for understanding." - H. H. Williams^In The Observer, 1866
+
+(If these examples are wrapping on your display, it is not intentional.  They 
+should each be on their own line.) Each Quote can be surrounded by quote marks 
+(if you like.)  The byline always starts with a space, a dash, and another 
+space.  If you need to have a dash in your text, put two in a row, like this: 
+
+"A billion here, a billion there -- pretty soon it adds up to real money!"
+
+You can cause a new line to appear when the quote is displayed with the caret 
+key (^). Both the quote and any byline can have carets. 
+
+SAGE IS COPYRIGHT (c) 1990-1991 BY SERVICES RENDERED.  IT IS DISTRIBUTED AS 
+"SHAREWARE", I.E., YOU ARE ENCOURAGED TO DISSEMINATE THE SOFTWARE FAR AND 
+WIDE, PROVIDING IT IS DISTRIBUTED IN ITS ENTIRETY AND WITHOUT CHARGE, EXCEPT 
+FOR MEDIA AND MAILING, IF APPLICABLE.  I EXPRESSLY RESERVE THE RIGHT TO CHANGE 
+THESE DISTRIBUTION RESTRICTIONS IN FUTURE VERSIONS.  SAGE IS DISTRIBUTED 
+WITHOUT WARRANTY, EITHER EXPRESSED OR IMPLIED, AND WITHOUT GUARANTEE AS TO ITS 
+SUITABILITY FOR A PARTICULAR TASK. SAGE HAS BEEN TESTED AND PERFORMS ITS 
+FUNCTIONS ESSENTIALLY AS DOCUMENTED, WITHOUT CAUSING ANY DAMAGE TO THE 
+COMPUTER IN USE OR ANY OF ITS FILES.  HOWEVER, ALL USERS ARE RESPONSIBLE FOR 
+BACKING UP THEIR OWN FILES, AND SERVICES RENDERED ASSUMES NO RESPONSIBILITY 
+FOR ANY DAMAGE OR LOSSES INCURRED AS A RESULT OF ITS USE. 
