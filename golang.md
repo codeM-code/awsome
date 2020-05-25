@@ -3,7 +3,8 @@
 ## notable posts
 (mostly inspired by GoLangWeekly)
 
-- [Benefits of named return values](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
+- [ ] Benefits of named return values](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
+  Q: Könnte man das in/für [nodeDB](nodedb.md) nutzen? Wenn ja: Wo?
 
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
   - Use `sync.Pool` to re-use previously allocated objects
