@@ -2,7 +2,7 @@
 
 - Orga [go-yali](https://github.com/go-yali/)
 - Repo [yali](https://github.com/go-yali/yali/)
-- intended use: `import "gopkg/yali"`
+- intended use: `import "gopkg.io/yali"`
 
 ## Inspired by
 
@@ -10,12 +10,14 @@
 
 ## Scope / Charta
 
-Sharpen the sword - [7 Habits](7habits.md)
+Sharpen the sword @ [7 Habits](7habits.md)
 
 ### learn
 
 - sExpr
 - GoCC / ebnf
+  Tom [25.05.20 16:57]
+  Ich finde GoCC sehr spannend, kann mich gerade aber nicht entscheiden, ob ich den Tokenizer und Parser selber schreiben möchte, der alte Tom hätte alles selber gebaut, der neue Tom möchte gute und ggf. neue Herangehensweise kennenlernen
 - REPL
   - [Putting Eval In Go](https://thorstenball.com/blog/2016/11/16/putting-eval-in-go/) by [Thorsten Ball](https://thorstenball.com/)
 - Lisp /
@@ -33,10 +35,13 @@ Sharpen the sword - [7 Habits](7habits.md)
 - bells & whistles
 - contribute [step0 ... stepA] to mal
 
+- https://en.wikipedia.org/wiki/History_of_compiler_construction
+
 ## Resources
 
 ### Kirschen in Nachbars Garten
 
+- the standard `bufio.Scanner`
 - the standard `text/scanner` package
 - the standard `go` GoLang compiler
 - the standard `text/template/parse` package
@@ -72,6 +77,17 @@ Sharpen the sword - [7 Habits](7habits.md)
   - forget-it
 
 ---
+# Packages / Directory structure
+
+## package printer
+// Package printer implements printing of AST nodes.
+
+// No need, I think.
+//
+// I'd prefer to have WriteTo(io.Writer) and String()
+// as sExpr-Methods, working recursively.
+
+---
 
 ## sExpr Parser
 
@@ -84,13 +100,26 @@ Sharpen the sword - [7 Habits](7habits.md)
 
 ### Step 0 - RePl
 
+- This has **nothing** to do with any LISP in particular.
+- This is just about having a CLI in the host language,
+  and some first feeling of the r-e-p-loop.
+
 ### Step 1 - R.P. - Read Print
+
+This needs some draft implementation of the S-Expression, which constitutes the.AST.
+
+READ also needs tokens, a lexer (with scanner) as tokenizer, and a parser.
+This may be achieved within minutes by using GoCC, or within monthes by asking Young-Tom for a handwritten implementation.
 
 ### Step 2 - REP. - Eval
 
 ### Step 3 - Env
 
-- sMap, bind.Ings, Env, Envs
+- sMap, bind.Ings, Env, Envs,
+  - go/types/scope.go
+  - GoLangsam/kanren/internal/µ/bind/smap.gp & ings.go
+  - mal/impls/go/src/env/env.go
+  - ...
 
 ### Step 4 - if fn do
 
